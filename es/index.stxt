@@ -1,0 +1,15 @@
+Index(www.cursos.com/index.stxt):
+
+	title: STXT Un lenguaje para la web
+	
+	part: STXT: Un nuevo lenguaje
+		Tema: (introduccion) Introducción
+		Tema: (ai-powered) IA con Pilas  
+		
+	part: Documentos
+		Tema: (raw-docs) Documentos sin namespace 
+		Tema: (namespace-docs) Documentos con namespace
+		
+	part: Anexos
+		Tema: (origen) Origen
+		Tema: (old-docs-intro) Introducción 2013
