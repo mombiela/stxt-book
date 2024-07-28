@@ -1,0 +1,13 @@
+Index(globalcampus.site/namespace.stxt): STXT Un lenguaje para la web
+	
+	Section: STXT: Un nuevo lenguaje
+		Link: (introduccion) Introducción
+		Link: (ai-powered) IA con Pilas  
+		
+	Section: Documentos
+		Link: (raw-docs) Documentos sin namespace 
+		Link: (namespace-docs) Documentos con namespace
+		
+	Section: Anexos
+		Link: (origen) Origen
+		Link: (old-docs-intro) Introducción 2013
