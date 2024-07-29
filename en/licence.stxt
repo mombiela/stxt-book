@@ -1,11 +1,10 @@
-Page (www.semantictext.info/page.stxt):
+Document (globalcampus.site/namespace.stxt):
 
 	Metadata:
 		Title: License for use
 		Description: Legal conditions on the license and use of the web
 		Author: Joan Costa Mombiela
-		Last_modif: 2013-03-01
-		Priority: 0.4
+		last modif: 2013-03-01
 	
 	Content:
 		If you want to use @STxT@, just use it. We do not have the intention of patenting the 

@@ -1,11 +1,10 @@
-Page (www.semantictext.info/page.stxt):
+Document (globalcampus.site/namespace.stxt):
 
 	Metadata:
 		Title: Donations for the project
 		Description: Donate via PayPal to the project and the authors of STxT. 
 		Author: Joan Costa Mombiela
-		Last_modif: 2013-03-01
-		Priority: 0.6
+		last modif: 2013-03-01
 	
 	Content:
 		Currently you can only do this through PayPal, 

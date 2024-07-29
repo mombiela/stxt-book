@@ -1,12 +1,11 @@
-Page (www.semantictext.info/page.stxt):
+Document (globalcampus.site/namespace.stxt):
 
 	Metadata:
 		Title: Cooperate with us
 		Description: Things that need to be finished in STxT language, and ways of contributing 
 			to the portal maintenance and contents.
 		Author: Joan Costa Mombiela
-		Last_modif: 2013-10-17
-		Priority: 0.6
+		last modif: 2013-10-17
 		
 	Content:
 		==Would you like to cooperate?==

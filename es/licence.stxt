@@ -1,11 +1,10 @@
-Page (www.semantictext.info/page.stxt):
+Document (globalcampus.site/namespace.stxt):
 
 	Metadata:
 		Title: Licencia de uso
 		Description: Condiciones legales sobre la licencia y el uso de la web
 		Author: Joan Costa Mombiela
-		Last_modif: 2013-03-01
-		Priority: 0.4
+		last modif: 2013-03-01
 	
 	Content:
 	

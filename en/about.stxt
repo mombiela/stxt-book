@@ -1,11 +1,10 @@
-Page (www.semantictext.info/page.stxt):
+Document (globalcampus.site/namespace.stxt):
 
 	Metadata:
 		Title: About us
 		Description: Who we are and what kind of project this is
 		Author: Joan Costa Mombiela
-		Last_modif: 2013-10-31
-		Priority: 0.2
+		last modif: 2013-10-31
 		
 	Content:
 		We should say that this is a personal project, but actually it’s a family 

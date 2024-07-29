@@ -1,10 +1,9 @@
-Page (www.semantictext.info/page.stxt):
+Document (globalcampus.site/namespace.stxt):
 
 	Metadata:
 		Title: Semantic Text on our own website
 		Description: Our entire website is made with stxt. We show you how to access the source code through any page.
 		Author: Joan Costa Mombiela
-		Last_modif: 2013-03-01
 	
 	Assert:
 		Our entire website is available in @STxT@.\\
