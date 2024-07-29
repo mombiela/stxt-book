@@ -21,7 +21,8 @@ Document (globalcampus.site/namespace.stxt):
 	#Creemos que es lo mejor para empezarnos a conocer ;-)\\
 	#Y para eso mejor empezar por algo conocido: ¡XML!
 		
-		Un texto en XML:
+	Content: Un texto en XML:
+	
 	Code:
 		<email>
 		<from>John Smith</from>
