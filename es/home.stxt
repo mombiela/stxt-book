@@ -32,7 +32,7 @@ Document (globalcampus.site/namespace.stxt):
 		<body>Hello Mery!! The book is finished!!</body> 
 		</email>
 
-	Content: Un equivalente en ```STxT```:
+	Content: Un equivalente en @STxT@:
 		
 	Code:
 		Email (www.example.com/email.stxt):
