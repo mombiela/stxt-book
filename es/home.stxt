@@ -32,8 +32,7 @@ Document (globalcampus.site/namespace.stxt):
 		<body>Hello Mery!! The book is finished!!</body> 
 		</email>
 
-	Content:		
-		Un equivalente en ```STxT```:
+	Content: Un equivalente en ```STxT```:
 		
 	Code:
 		Email (www.example.com/email.stxt):
@@ -46,8 +45,7 @@ Document (globalcampus.site/namespace.stxt):
 		
 	Header: ¿Y bien?
 		
-	Assert:
-		¿Aparte de eliminar esos horribles caracteres ```'<','>'``` qué hay de nuevo?
+	Assert:	¿Aparte de eliminar esos horribles caracteres ```'<','>'``` qué hay de nuevo?
 		
 	Content:
 		Bueno, la lista es larga, pero como aperitivo ya es suficiente:
