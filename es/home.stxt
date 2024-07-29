@@ -6,8 +6,7 @@ Document (globalcampus.site/namespace.stxt):
 		Author: Joan Costa Mombiela
 		last modif: 2013-03-01
 	
-	Content:
-		== Nuestro objetivo ==
+	Header: Nuestro objetivo
 		
 	Alert:
 		Crear el lenguaje más potente, más sencillo y más bonito \\
@@ -17,15 +16,13 @@ Document (globalcampus.site/namespace.stxt):
 	#	Nuestro principio básico: **Sencillez, claridad y simplicidad** por encima de todo
 	#	Esto lo intentamos aplicar en todo lo que hacemos. No sé si lo habremos conseguido :-)
 	
-	Content:
-		==¡Un ejemplo!==
+	Header: ¡Un ejemplo!
 		
 	#Creemos que es lo mejor para empezarnos a conocer ;-)\\
 	#Y para eso mejor empezar por algo conocido: ¡XML!
 		
 		Un texto en XML:
-		
-		{{{
+	Code:
 		<email>
 		<from>John Smith</from>
 		<to>Mery Adams</to> 
@@ -33,11 +30,11 @@ Document (globalcampus.site/namespace.stxt):
 		<title>Project report</title> 
 		<body>Hello Mery!! The book is finished!!</body> 
 		</email>
-		}}}
-		
+
+	Content:		
 		Un equivalente en @STxT@:
 		
-		{{{
+	Code:
 		Email (www.example.com/email.stxt):
 		
 		From: John Smith
@@ -45,14 +42,13 @@ Document (globalcampus.site/namespace.stxt):
 		Cc: Keyla Brown
 		Title: Project report
 		Body: Hello Mery!! The book is finished!!
-		}}}
 		
-		==¿Y bien?==
+	Header: ¿Y bien?
 		
-	assert:
+	Assert:
 		¿Aparte de eliminar esos horribles caracteres {{{'<','>'}}} qué hay de nuevo?
 		
-	content:
+	Content:
 		Bueno, la lista es larga, pero como aperitivo ya es suficiente:
 		
 		* Mejor que XML en muchos sentidos: [[chapter_09.html|Ver Capítulo 9]]
@@ -69,8 +65,9 @@ Document (globalcampus.site/namespace.stxt):
 		* Namespaces sencillos, pero //todo siempre// en namespaces
 		* Integra fácilmente textos de otros lenguajes de programación
 		
-		==Y aún hay más: SWB==
+	Header: Y aún hay más: SWB
 		
+	Content:
 		No te olvides de nuestra aplicación estrella [[swb.html|Semantic Web Builder]].\\
 		**¡Atención diseñadores!** Para nosotros el mejor editor de páginas web que existe. 
 		
