@@ -9,7 +9,7 @@ Document (globalcampus.site/namespace.stxt):
 	title: Capítulo 2: ¿Qué es @STxT@?
 		
 	assert:
-		Este proyecto es fruto de años de //inconsciente// reflexión,\\
+		Este proyecto es fruto de años de _inconsciente reflexión_,\
 		aunque sólo se necesitó un instante de inspiración.
 	
 	Content:
@@ -19,15 +19,14 @@ Document (globalcampus.site/namespace.stxt):
 		base de la creación.
 		
 	assert:
-		Es //La Inspiración//
+		Es _La Inspiración_
 					
 	Content:
-		El resto de capítulos son //La Transpiración//.
+		El resto de capítulos son _La Transpiración_.
 		
 		Ojead este capítulo un poco por encima, y leedlo con más profundidad cuando ya sepáis
 		más de @STxT@. Es un buen consejo ;-)
-	header: 
-		¿Qué es @STxT@?
+	header: ¿Qué es @STxT@?
 		
 	Content:
 		Es un lenguaje puramente semántico, con unas reglas muy básicas, 
@@ -37,7 +36,7 @@ Document (globalcampus.site/namespace.stxt):
 		que lo es. 	
 		
 		@STxT@: Un lenguaje para la web. No significa uno más, uno más entre tantos. 
-		Significa //UN// lenguaje para la web. Uno sólo. Y a la vez muchos. 
+		Significa _UN_ lenguaje para la web. Uno sólo. Y a la vez muchos. 
 		Todos los que se quieran. Ésta es mi propuesta.
 		
 		@STxT@ es un lenguaje para escribir documentos estructurados. Permite crear
@@ -52,8 +51,7 @@ Document (globalcampus.site/namespace.stxt):
 		
 		En un futuro @STxT@ podría ser un reemplazo a otras tecnologías como xml o LaTex.
 		
-	header:
-		Declaración de intenciones :-)
+	header:	Declaración de intenciones :-)
 		
 	Content:
 		Hay un serie de principios o características que queremos que tenga este nuevo lenguaje.
@@ -79,8 +77,7 @@ Document (globalcampus.site/namespace.stxt):
 		  Lo hace por estructura y contenido. Sólo hay algún carácter prohibido, 
 		  pero no de escape. Ya lo veréis, me acabo de extender demasiado en este punto...
 		  
-	header:
-		¿Qué significa @STxT@?
+	header: ¿Qué significa @STxT@?
 		
 	Content:
 		Bien, originariamente @STxT@ significa "Texto semántico". 
@@ -107,7 +104,8 @@ Document (globalcampus.site/namespace.stxt):
 		el punto de vista de la sintáctica, buscando un enfoque informático, nunca semántico. 
 		
 	assert:
-		//Con @STxT@ Resolvemos semántica y sintáctica a la vez, \\ de una forma elegante y bonita.//
+		_Con @STxT@ Resolvemos semántica y sintáctica a la vez, \
+		de una forma elegante y bonita._
 		
 	Content:
 		No os equivoquéis. Yo soy informático. Pero a veces hay que ver desde el otro lado, 
@@ -123,14 +121,14 @@ Document (globalcampus.site/namespace.stxt):
 		Intentamos hacer fácil para todos. No habría que haber problemas para los "no informáticos" 
 		el hecho de crear un documento semántico. Debería de ser intuitivo, y sencillo con las herramientas adecuadas.
 		
-		Uno de los objetivos es pasar de tener //1// lenguaje relativamente complicado para hacer cosas
-		(Ej: XML, Latex,...) para pasar a tener //n// muy sencillos, con contenido ligado a una estructura.
+		Uno de los objetivos es pasar de tener _1_ lenguaje relativamente complicado para hacer cosas
+		(Ej: XML, Latex,...) para pasar a tener _n_ muy sencillos, con contenido ligado a una estructura.
 		Este lenguaje tiene que poder aprenderse en muy poco tiempo. Casi con un ejemplo 
 		debería ser suficiente. @STxT@ está hecho para que sea así. Además, @STxT@ permitirá pasar 
 		de @STxT@ a otros lenguajes, latex, por ejemplo, para que gente más técnica 
 		pueda hacer el trabajo final. Pero el origen y la base será siempre @STxT@. 
 		
-		Es mucho mejor que sea así, ya que escribimos en semántico puro, sin tener en cuenta //nada// de estructura.
+		Es mucho mejor que sea así, ya que escribimos en semántico puro, sin tener en cuenta _nada_ de estructura.
 		
 		Al iniciar la creación de este lenguaje buscaba algo muy genérico, a la vez que fuera descriptivo.
 		Quería que la información fuera muy clara, pero quería olvidar las gramáticas tan complejas de otros sistemas. 
@@ -142,8 +140,7 @@ Document (globalcampus.site/namespace.stxt):
 		pero a veces se ven limitadas por la forma con la que tienen que traducir esta información.
 		También pretendo solventar este problema.
 			
-	header:
-		Declaración caótica de intenciones :-D (**)
+	header: Declaración caótica de intenciones :-D (**)
 		
 	Content:	
 		Bien, todo esto es lo que buscábamos, o lo que hemos conseguido, o el objetivo,
@@ -177,8 +174,7 @@ Document (globalcampus.site/namespace.stxt):
 		* Uno de los objetivos es hacer la información abierta. Esto también se hace en la fase de diseño. 
 		  Por diseño el contenido es abierto.	
 			
-	header:
-		Aplicaciones, resultados y esperanzas
+	header:	Aplicaciones, resultados y esperanzas
 		
 	Content:
 		Creo que hemos creado un gran lenguaje. Sencillo, práctico y realmente muy útil. 
