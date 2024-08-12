@@ -54,7 +54,7 @@ Document (globalcampus.site/namespace.stxt):
 	Content:
 		Bueno, la lista es larga, pero como aperitivo ya es suficiente:
 		
-		* Mejor que XML en muchos sentidos: [Ver Capítulo 9](chapter_09.html)
+		* Mejor que XML,YAML,... en muchos sentidos: [Ver Capítulo 9](chapter_09.html)
 		* Lenguaje semántico... pero sencillo! :-)
 		* ¡No hay caracteres de escape! ¡No se necesitan! :-O 
 		* Encoding UTF-8 _siempre_
