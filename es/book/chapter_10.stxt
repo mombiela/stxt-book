@@ -6,11 +6,9 @@ Document (globalcampus.site/namespace.stxt):
 		Author: Joan Costa Mombiela
 		last modif: 2013-03-01
 	
-	title:
-		Capítulo 10: Web Services
+	title: Capítulo 10: Web Services
 		
-	header:
-		Advertencia
+	header:	Advertencia
 		
 	Content:
 		Igual que el capítulo anterior. Los fans de Webservices y SOAP me tendrán que perdonar y disculpar.
@@ -19,8 +17,7 @@ Document (globalcampus.site/namespace.stxt):
 		Rectifico. Mejor que sí que lo lean. De hecho, los animo a hacerlo.
 		La mejor opinión es la de quien realmente conoce y ha usado una tecnología. 
 		
-	header:
-		SOAP en la teoría
+	header:	SOAP en la teoría
 		
 	Content:
 		SOAP es fantástico. Es un lenguaje para realizar servicios web. Está basado en xml,
@@ -34,8 +31,7 @@ Document (globalcampus.site/namespace.stxt):
 		
 		//(*) No recuerdo quien lo dijo, pero me gustó.//
 		
-	header:
-		SOAP en la práctica
+	header:	SOAP en la práctica
 	
 	Content:	
 		Pero la práctica no siempre nos da la razón. Hay cosas que escapan al control.
@@ -49,8 +45,7 @@ Document (globalcampus.site/namespace.stxt):
 		
 		Lo siento, pero yo lo veo así.
 		
-	header:
-		REST
+	header:	REST
 		
 	Content:
 		La aparición de los servicios REST son una respuesta clara a los problemas de SOAP.
@@ -62,8 +57,7 @@ Document (globalcampus.site/namespace.stxt):
 	assert:
 		Atentos. La solución ha llegado. Se llama @STxT@. 
 		
-	header:
-		@STxT@: Un nuevo enfoque
+	header:	@STxT@: Un nuevo enfoque
 		
 	Content:
 		Ahora tenemos una nueva herramienta. Se llama @STxT@. ¿Cómo se definiría un webservice?

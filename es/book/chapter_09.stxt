@@ -6,11 +6,9 @@ Document (globalcampus.site/namespace.stxt):
 		Author: Joan Costa Mombiela
 		last modif: 2013-03-01
 	
-	title:
-		Capítulo 9: @STxT@ y XML
+	title: Capítulo 9: @STxT@ y XML
 	
-	header:	
-		Advertencia al lector
+	header:	Advertencia al lector
 		
 	Content:
 		Este capítulo puede herir la sensibilidad de los lectores entusiastas de xml.

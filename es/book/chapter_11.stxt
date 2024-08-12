@@ -6,11 +6,9 @@ Document (globalcampus.site/namespace.stxt):
 		Author: Joan Costa Mombiela
 		last modif: 2013-03-01
 	
-	title:
-		Capítulo 11: Parseo de STxT (*)
+	title: Capítulo 11: Parseo de STxT (*)
 		
-	header:
-		Introducción
+	header:	Introducción
 		
 	Content:
 		Parsear un fichero @STxT@ es mucho más fácil que parsear ficheros de otras tecnologías. 

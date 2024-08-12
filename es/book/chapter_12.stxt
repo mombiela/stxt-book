@@ -6,8 +6,7 @@ Document (globalcampus.site/namespace.stxt):
 		Author: Joan Costa Mombiela
 		last modif: 2013-03-01
 	
-	Title:
-		Capítulo 12: Web semántica
+	Title: Capítulo 12: Web semántica
 		
 	Content:
 		Ha llegado el momento de ir más allá.
@@ -15,8 +14,7 @@ Document (globalcampus.site/namespace.stxt):
 	alert:		
 		Bienvenidos a la web semántica.
 		
-	header:
-		Una propuesta para la web
+	header:	Una propuesta para la web
 		
 	Content:
 		He visto muchas propuestas anteriormente, pero a mi entender no acaban de funcionar.
@@ -61,11 +59,9 @@ Document (globalcampus.site/namespace.stxt):
 		y muchas formas de aplicarla. Ahora ni tan siquiera lo sé, pero puedo ver su potencial.
 		Espero que otros también lo vean y lo sepan aplicar.
 		
-	header:
-		Ideas
+	header:	Ideas
 		
-	subheader:
-		¡¡Reemplazar HTML5!!
+	subheader: ¡¡Reemplazar HTML5!!
 		
 	Content:
 		¡¡Pero qué locura es esa!! ¡¡Llevamos años evolucionando, haciendo navegadores,... ¡¡cómo podríamos hacer algo así!!
