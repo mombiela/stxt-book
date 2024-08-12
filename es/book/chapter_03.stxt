@@ -115,8 +115,7 @@ Document (globalcampus.site/namespace.stxt):
 	Content:
 		Esta estructura es muy natural, y es la base para obtener el documento final @STxT@.
 		
-	header:
-		TODO en Namespaces (ns)
+	header:	TODO en Namespaces (ns)
 		
 	Content:
 		Vamos a perder el miedo _ahora mismo_ a los namespaces en @STxT@; 
