@@ -6,9 +6,9 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (chapter_09) XWM y STXT
 		
 	Section: Prólogo
-		Link: (chapter_00_a) Portada (1)
-		Link: (chapter_00_b) Portada (2)
-		Link: (index) Índice de contenidos
+		Link: (chapter_00_a) Profecía
+		Link: (chapter_00_b) Poesía
+		Link: (index) Contenidos
 	
 	Section: STXT: Un nuevo lenguaje
 		Link: (introduccion) Introducción
