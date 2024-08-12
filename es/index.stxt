@@ -1,84 +1,41 @@
-Document (globalcampus.site/namespace.stxt):
-	Title: STxT: Semantic Text
+Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
+	Title: STxT: Semantic Text Book
 	Menu:
-		Link: (#github/mombiela/stxt-book/es/book/) El libro
-		Link: (#github/mombiela/stxt-book/es/about) Sobre nosotros
-		Link: (#github/mombiela/stxt-book/es/licence) Licencia
-
-	Metadata:
-		Title: Bienvenidos a STxT
-		Description: Introducción al lenguaje STxT, ventajas sobre xml, características únicas
-		Author: Joan Costa Mombiela
-		last modif: 2013-03-01
+		Link: (index) Índice
+		Link: (chapter_03) Tutorial
+		Link: (chapter_09) XWM y STXT
+		
+	Section: Prólogo
+		Link: (chapter_00_a) Profecía
+		Link: (chapter_00_b) Poesía
+		Link: (index) Contenidos
 	
-	Header: Nuestro objetivo
+	Section: STXT: Un nuevo lenguaje
+		Link: (introduccion) Introducción
+		Link: (ai-powered) Potenciado con IA
 		
-	Alert:
-		Crear el lenguaje más potente, más sencillo y más bonito \
-		que jamás haya existido :-)
-	
-	#text:
-	#	Nuestro principio básico: **Sencillez, claridad y simplicidad** por encima de todo
-	#	Esto lo intentamos aplicar en todo lo que hacemos. No sé si lo habremos conseguido :-)
-	
-	Header: ¡Un ejemplo!
+	Section: Documentos
+		Link: (raw-docs) Documentos sin namespace 
+		Link: (namespace-docs) Documentos con namespace
+		Link: (namespace-docs-advanced) Documentos con namespace. Conceptos avanzados
 		
-	#Creemos que es lo mejor para empezarnos a conocer ;-)\\
-	#Y para eso mejor empezar por algo conocido: ¡XML!
+	Section: Anexos
+		Link: (origen) Origen
+		Link: (old-docs-intro) Introducción 2013
 		
-	Content: Un texto en XML:
-	
-	Code:
-		<email>
-			<from>John Smith</from>
-			<to>Mery Adams</to> 
-			<cc>Keyla Brown<cc> 
-			<title>Project report</title> 
-			<body>Hello Mery!! The book is finished!!</body> 
-		</email>
-
-	Content: Un equivalente en @STxT@:
+	Section: Antiguos capítulos
+		Link: (chapter_01) Capítulo 1
+		Link: (chapter_02) Capítulo 2
+		Link: (chapter_03) Capítulo 3
+		Link: (chapter_04) Capítulo 4
+		Link: (chapter_05) Capítulo 5
+		Link: (chapter_06) Capítulo 6
+		Link: (chapter_07) Capítulo 7
+		Link: (chapter_08) Capítulo 8
+		Link: (chapter_09) Capítulo 9
+		Link: (chapter_10) Capítulo 10
+		Link: (chapter_11) Capítulo 11
+		Link: (chapter_12) Capítulo 12
+		Link: (chapter_13) Capítulo 13
+		Link: (chapter_end) Capítulo final
 		
-	Code:
-		Email (www.example.com/email.stxt):
-			From: John Smith
-			To: Mery Adams
-			Cc: Keyla Brown
-			Title: Project report
-			Body: Hello Mery!! The book is finished!!
-		
-	Header: ¿Y bien?
-		
-	Assert:	¿Aparte de eliminar esos horribles caracteres ```'<','>'``` qué hay de nuevo?
-		
-	Content:
-		Bueno, la lista es larga, pero como aperitivo ya es suficiente:
-		
-		* Mejor que XML,YAML,... en muchos sentidos: [Ver Capítulo 9](chapter_09.html)
-		* Lenguaje semántico... pero sencillo! :-)
-		* ¡No hay caracteres de escape! ¡No se necesitan! :-O 
-		* Encoding UTF-8 _siempre_
-		* Sencillo de aprender por humanos (_¡y por no informáticos!_)
-		* Sencillo de leer por máquinas
-		
-		Otras características que gustarán a los informáticos ;-)
-		
-		* Parseo super rápido
-		* Gramática integrada en el lenguaje
-		* Namespaces sencillos, pero _todo siempre_ en namespaces
-		* Integra fácilmente textos de otros lenguajes de programación
-		
-	Header: Y aún hay más: GlobalCampus.site
-		
-	Content:
-		No te olvides de nuestra aplicación estrella: [GlobalCampus.site](https://globalcampus.site)
-		
-		**¡Atención desarrolladores/diseñadores!** Para nosotros el mejor editor de páginas web que existe. 
-		
-		* Basado en @STxT@, por supuesto ;-) 
-		* Libre :-D
-		* Adaptable :-)
-		* Rápido :-O
-		* _Esta web está hecha con él. **¡¡Nosotros ya lo hemos probado!!**_
-		
-		**Te va a encantar :-P**
