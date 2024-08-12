@@ -19,6 +19,10 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (namespace-docs) Documentos con namespace
 		Link: (namespace-docs-advanced) Documentos con namespace. Conceptos avanzados
 		
+	Section: Anexos
+		Link: (origen) Origen
+		Link: (old-docs-intro) Introducción 2013
+		
 	Section: Antiguos capítulos
 		Link: (chapter_01) Capítulo 1
 		Link: (chapter_02) Capítulo 2
@@ -35,6 +39,3 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (chapter_13) Capítulo 13
 		Link: (chapter_end) Capítulo final
 		
-	Section: Anexos
-		Link: (origen) Origen
-		Link: (old-docs-intro) Introducción 2013
