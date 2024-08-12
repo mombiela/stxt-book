@@ -1,7 +1,7 @@
 Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 	
 	Menu:
-		Link: (index) Índice Contenidos
+		Link: (index) Índice
 		Link: (chapter_03) Tutorial
 		Link: (chapter_09) XWM y STXT
 		
