@@ -28,8 +28,8 @@ Document (globalcampus.site/namespace.stxt):
 		aunque está bien para presentar contenido. Se ha hecho mucho para separar el contenido de la presentación,
 		pero creo que todavía queda un largo camino por recorrer. Y no sé si se hace en la dirección adecuada.
 		
-	#	//Por cierto, hay cientos de personas involucradas en este proceso, 
-	#	grandes expertos del mundo web. ¿Quién soy yo para cuestionarlo?//
+	#	_Por cierto, hay cientos de personas involucradas en este proceso, 
+	#	grandes expertos del mundo web. ¿Quién soy yo para cuestionarlo?_
 		
 		¿Qué tenemos ahora mismo?
 		
@@ -102,7 +102,7 @@ Document (globalcampus.site/namespace.stxt):
 	Content:
 		¿Qué habéis visto? 
 		
-		Bueno, como no me podéis contestar os diré lo que //yo// he visto.
+		Bueno, como no me podéis contestar os diré lo que _yo_ he visto.
 		Os puede ayudar o quizá sea una tontería, pero es mi visión.
 		
 		Las páginas web son páginas @STxT@, con cada web y portal definiendo su propia estructura.
@@ -198,7 +198,7 @@ Document (globalcampus.site/namespace.stxt):
 		La transición
 		
 	Content:
-		¿Cómo debe ser la transición? Debe ser //fácil y transparente//. Sino, no habrá transición.
+		¿Cómo debe ser la transición? Debe ser _fácil y transparente_. Sino, no habrá transición.
 		Lo primero sería definir la nueva forma de ver documentos con @STxT@ y los nuevos CSS.
 		Por cierto, sería un buen momento para hacer los CSS y tener una primera versión.
 		¡Quizá los renders de los navegadores por fin los tratarían todos iguales!
@@ -231,7 +231,7 @@ Document (globalcampus.site/namespace.stxt):
 		Puedo afirmar que la experiencia de usar @STxT@ ha sido realmente impresionante.
 		
 		Llevo años programando para la web, y nunca antes me había sentido tan cómodo.
-		Incluso sin herramientas de edición, el proceso de creación del libro ha sido simplemente //una gozada//.
+		Incluso sin herramientas de edición, el proceso de creación del libro ha sido simplemente _una gozada_.
 		Os animo a todos a que lo probéis.
 		
 		Vale la pena ;-)

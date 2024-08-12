@@ -18,13 +18,13 @@ Document (globalcampus.site/namespace.stxt):
 		
 	Content:
 		Éste es el primer lenguaje que conozco dónde se puede empezar con un ejemplo
-		y //todo el mundo// lo puede llega a entender.
+		y _todo el mundo_ lo puede llega a entender.
 		
 		El ejemplo será una receta de cocina. La iremos retocando, 
 		para que cada vez se parezca más a un texto @STxT@, pero no tenéis por qué preocuparos.
 		Os prometo que será fácil, poco traumático, y os va a gustar :-D
 		
-		Sin más preámbulos... //¡Buñuelos de Girona!//
+		Sin más preámbulos... _¡Buñuelos de Girona!_
 		
 	code:
 		Buñuelos de Girona
@@ -120,7 +120,7 @@ Document (globalcampus.site/namespace.stxt):
 		TODO en Namespaces (ns)
 		
 	Content:
-		Vamos a perder el miedo //ahora mismo// a los namespaces en @STxT@; 
+		Vamos a perder el miedo _ahora mismo_ a los namespaces en @STxT@; 
 		en homenaje a todos los usuarios traumatizados de xml que no los pueden soportar ;-)
 		
 	alert:
@@ -149,7 +149,7 @@ Document (globalcampus.site/namespace.stxt):
 		Namespace: www.cooking.demo/recipe.stxt
 		
 		Si no fuera inventado sería accesible vía web mediante la url: 
-		http://www.cooking.demo/recipe.stxt
+		http:_www.cooking.demo/recipe.stxt
 		
 		Definimos 5 nodos:
 		
@@ -178,8 +178,8 @@ Document (globalcampus.site/namespace.stxt):
 		
 	Content:
 		Y ahora reescribimos la receta con los anteriores nodos y namespaces. 
-		Hay que tener en cuenta que //sólo hay que especificar el namespace del primer nodo, 
-		los otros namespaces se deducen automáticamente de su definición.//
+		Hay que tener en cuenta que _sólo hay que especificar el namespace del primer nodo, 
+		los otros namespaces se deducen automáticamente de su definición._
 	
 	assert:	
 		¡Increíble! ¡Por fin un poco de coherencia y facilidad de uso en los ns! :-)
@@ -254,8 +254,8 @@ Document (globalcampus.site/namespace.stxt):
 				Nodo 7: Texto nodo 7
 		
 	Content:
-		En este ejemplo tenemos un nodo principal //Nodo 1//, que a su vez contiene 2 nodos: //Nodo 2// y //Nodo 5//.
-		A su vez //Nodo 2// contiene a //Nodo 3// y //Nodo 4//, y //Nodo 5// contiene //Nodo 6// y //Nodo 7//. 
+		En este ejemplo tenemos un nodo principal _Nodo 1_, que a su vez contiene 2 nodos: _Nodo 2_ y _Nodo 5_.
+		A su vez _Nodo 2_ contiene a _Nodo 3_ y _Nodo 4_, y _Nodo 5_ contiene _Nodo 6_ y _Nodo 7_. 
 		
 		Esta estructura es muy visual (realmente la explicación ha sido más complicada),
 		y fácilmente deducible de la identación de cada nodo. 
@@ -291,7 +291,7 @@ Document (globalcampus.site/namespace.stxt):
 			Preparación:
 		
 	Content:
-		Teníamos un nodo //Receta// que contenía todos los otros nodos.
+		Teníamos un nodo _Receta_ que contenía todos los otros nodos.
 		
 		Vemos que la identación es la clave, y la identación se obtiene mediante caracteres de tabulación.
 		También es posible mediante espacios, aunque los tabuladores siempre han sido un estándar en textos, 
@@ -354,7 +354,7 @@ Document (globalcampus.site/namespace.stxt):
 	Content:	
 		Ésta es la regla básica para todos los nodos. Anteriormente hemos visto cómo la alineación 
 		cambiaba la jerarquía de nodos. En los nodos de texto la alineación permite incluir 
-		cualquier tipo de contenido //SIN TENER NECESIDAD DE UTILIZAR CARACTERES DE ESCAPE//.
+		cualquier tipo de contenido _SIN TENER NECESIDAD DE UTILIZAR CARACTERES DE ESCAPE_.
 		La única restricción es que debe estar alineado un nivel más que el nodo texto.
 		
 		Un ejemplo, por favor:
@@ -369,7 +369,7 @@ Document (globalcampus.site/namespace.stxt):
 	Content:
 		Ahora más diversión... y si introducimos xml en el texto? 
 		Veremos que no hay problema alguno. Podemos insertar contenido texto 
-		sin tener que escapar ningún carácter. //¡Por Fin!//
+		sin tener que escapar ningún carácter. _¡Por Fin!_
 	
 	code:
 		Nodo(...):

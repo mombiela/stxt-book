@@ -52,7 +52,7 @@ Document (globalcampus.site/namespace.stxt):
 		La actualidad (**)
 	
 	Content:	
-		El mundo está plagado de documentos feos, //xml's que nos gustan...// ¡si es un formato horrible!
+		El mundo está plagado de documentos feos, _xml's que nos gustan..._ ¡si es un formato horrible!
 		
 		Estamos heredando un formato anticuado, con encodings anticuados, con forma de pensar muy informatizada.
 		Y está en todas partes. Y seguimos usándolo. Y queremos que esté para todo... ¡Un momento! ¡Stop!
@@ -249,7 +249,7 @@ Document (globalcampus.site/namespace.stxt):
 		@STxT@ no tiene atributos al estilo de XML
 						
 	Content:
-		Esto lo hace //MEJOR//, no peor. A veces, //MENOS ES MAS ;-)//
+		Esto lo hace _MEJOR_, no peor. A veces, _MENOS ES MAS ;-)_
 		
 		El ejemplo anterior en @STxT@ sería:
 		
@@ -295,10 +295,10 @@ Document (globalcampus.site/namespace.stxt):
 		Me gustaría ver desaparecer un típico problema de xml:
 		
 	assert:
-		//¿Dónde está la gramática de este documento?//
+		_¿Dónde está la gramática de este documento?_
 		
 	Content:
-		En @STxT@, //TODO// está en la web. Cuando se quiere crear un documento automáticamente
+		En @STxT@, _TODO_ está en la web. Cuando se quiere crear un documento automáticamente
 		hay que poder ver su definición. La gramática ha de ser accesible siempre.	 
 		
 	assert:
@@ -314,9 +314,9 @@ Document (globalcampus.site/namespace.stxt):
 		
 		Os dejo el enlace, por si alguien lo quiere ver:
 		
-		[[http://www.w3.org/2001/XMLSchema.xsd|http://www.w3.org/2001/XMLSchema.xsd|xsd]]
+		[[http:_www.w3.org/2001/XMLSchema.xsd|http:_www.w3.org/2001/XMLSchema.xsd|xsd]]
 			
-		¿Hay alguien que lo entienda? Perdón, perdón. ¿Hay alguien //que no sea un superhéroe// que lo entienda?
+		¿Hay alguien que lo entienda? Perdón, perdón. ¿Hay alguien _que no sea un superhéroe_ que lo entienda?
 			
 		En cambio con @STxT@ la mayoría de personas no tendría dificultad en entender el @STxT@ de un @STxT@.
 		Lo voy a enseñar, aunque ya lo habíamos visto en el capítulo 4:
@@ -445,9 +445,9 @@ Document (globalcampus.site/namespace.stxt):
 		
 		En XML los namespaces molestan, aportan complejidad, y dan muy poco a cambio.
 		
-		Por cierto, hemos desterrado el prefijo {{{http://}}} de los namespace.
-		Ya no es necesario, ya que ello implicaría que es distinto si se obtiene con {{{http://}}}
-		que si se hace con {{{https://}}}. Esto no tiene sentido, lo que sí lo tiene es que sea a partir de {{{//}}}. 
+		Por cierto, hemos desterrado el prefijo {{{http:_}}} de los namespace.
+		Ya no es necesario, ya que ello implicaría que es distinto si se obtiene con {{{http:_}}}
+		que si se hace con {{{https:_}}}. Esto no tiene sentido, lo que sí lo tiene es que sea a partir de {{{_}}}. 
 		
 	header:
 		Futuro

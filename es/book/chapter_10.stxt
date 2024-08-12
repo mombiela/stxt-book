@@ -29,7 +29,7 @@ Document (globalcampus.site/namespace.stxt):
 		
 		En la teoría, la teoría y la práctica son iguales. En la práctica esto no es verdad. (*)
 		
-		//(*) No recuerdo quien lo dijo, pero me gustó.//
+		_(*) No recuerdo quien lo dijo, pero me gustó._
 		
 	header:	SOAP en la práctica
 	
@@ -71,17 +71,17 @@ Document (globalcampus.site/namespace.stxt):
 	code:
 		Webservices(...):
 			Service:
-				url: http://xxxx/fsfs
+				url: http:_xxxx/fsfs
 				entrada: Nodo1(www.example.com/nodo.stxt)
 				salida: Nodo2(www.example.com/nodo.stxt)
 				
 			Service:
-				url: http://xxxx/fsfs
+				url: http:_xxxx/fsfs
 				entrada: Nodo3(www.example.com/nodo.stxt)
 				salida: OtroZ(www.demo.com/demo.stxt)
 				
 			Service:
-				url: http://xxxx/fsfs
+				url: http:_xxxx/fsfs
 				entrada: Nodo3(www.example.com/nodo.stxt)
 				salida: OtroX(www.demo.com/demo.stxt)
 		
@@ -90,7 +90,7 @@ Document (globalcampus.site/namespace.stxt):
 		
 	code:
 		Webservice(...):
-			url: http://xxxx/fsfs
+			url: http:_xxxx/fsfs
 			
 			Service:
 				method: xxx
@@ -109,13 +109,13 @@ Document (globalcampus.site/namespace.stxt):
 		
 	Content:
 		En este punto no me gustaría decir nada más. No me atrevo,
-		pero supongo que ya habéis captado la idea: //simplificar//.
+		pero supongo que ya habéis captado la idea: _simplificar_.
 		Todo es más sencillo cuando entra en juego @STxT@.
 		Todo está más claro. Y definido.
 		
 	assert:
 		Teníamos SOAP, REST, y ahora... \\
-		//SWS//: ¡¡Semantic web services!!
+		_SWS_: ¡¡Semantic web services!!
 			
 	Content:
 		Bien, ya que es un servicio http(s) también podríamos hacer algo híbrido ;-)
@@ -123,7 +123,7 @@ Document (globalcampus.site/namespace.stxt):
 	code:
 		Webservices(...):
 			Service:
-				url: http://www.xxx.com/yyy
+				url: http:_www.xxx.com/yyy
 				params:
 					param: 
 						name: p1
@@ -137,11 +137,11 @@ Document (globalcampus.site/namespace.stxt):
 				salida: Nodo2(www.example.com/nodo.stxt)
 				
 			Service:
-				url: http://www.xxx.com/ttt
+				url: http:_www.xxx.com/ttt
 				salida: OtroZ(www.demo.com/demo.stxt)
 				
 			Service:
-				url: http://www.xxx.com/zzz
+				url: http:_www.xxx.com/zzz
 				salida: OtroX(www.demo.com/demo.stxt)
 		
 	Content:
@@ -290,10 +290,10 @@ Document (globalcampus.site/namespace.stxt):
 		  Igual que el híbrido también podremos especificar el encoding y el método http a ejecutar.
 		  
 		En los tres tipos distintos es necesario especificar la url que hay que ejecutar.
-		Además también es recomendable utilizar el campo //descrip// para dar
+		Además también es recomendable utilizar el campo _descrip_ para dar
 		una explicación de lo que hace el webservice.
 		
-		Tanto el //SWS// como el //Hybrid// tienen que retornar un documento @STxT@ válido, 
+		Tanto el _SWS_ como el _Hybrid_ tienen que retornar un documento @STxT@ válido, 
 		por	lo que la salida debería ser en UTF-8.
 		
 		Un ejemplo de mensaje HTTP para un servicio puro SWS:
@@ -320,25 +320,25 @@ Document (globalcampus.site/namespace.stxt):
 		Web Service Definitions(www.semantictext.info/web_services.stxt):
 		
 		SWS Service:
-			Url: http://www.ws.demo/example_sws_1.ws 
+			Url: http:_www.ws.demo/example_sws_1.ws 
 			Input Document: Example Input (webservice.demo/example.stxt)
 			Output Document: Example Output (webservice.demo/example.stxt)
 			Description: Description of the webservice 
 			
 		SWS Service:
-			Url: http://www.ws.demo/example_sws_1.ws
+			Url: http:_www.ws.demo/example_sws_1.ws
 			Input Document: Demo Input (webservice.demo/demo.stxt)
 			Output Document: Demo Output (webservice.demo/demo.stxt)
 			Description: Description of the webservice 
 			 
 		SWS Service:
-			Url: http://www.ws.demo/example_sws_2.ws 
+			Url: http:_www.ws.demo/example_sws_2.ws 
 			Input Document: Example Input (webservice.demo/example.stxt)
 			Output Document: Example Output (webservice.demo/example.stxt)
 			Description: Description of the webservice 
 			 
 		Hybrid Service:
-			Url: http://www.ws.demo/example_hybrid.ws 
+			Url: http:_www.ws.demo/example_hybrid.ws 
 			Method: POST
 			Params Encoding: UTF-8
 			Param:
@@ -351,7 +351,7 @@ Document (globalcampus.site/namespace.stxt):
 			Description: Description of the webservice 
 			 
 		REST Service:
-			Url: http://www.ws.demo/example_rest.ws 
+			Url: http:_www.ws.demo/example_rest.ws 
 			Method: POST
 			Params Encoding: UTF-8
 			Param:
@@ -377,9 +377,9 @@ Document (globalcampus.site/namespace.stxt):
 		En unas pocas líneas hemos condensado gran cantidad de información,
 		pero de una forma muy clara y sencilla.
 		
-		//¿Os imagináis como sería un documento WSDL equivalente?//
+		_¿Os imagináis como sería un documento WSDL equivalente?_
 		
-		//¿Y los mensajes SOAP asociados?//
+		_¿Y los mensajes SOAP asociados?_
 		
 		Podemos afirmar que en un solo capítulo hemos explicado como podrían ser
 		los webservices, en caso de basar su implementación y definición en @STxT@.

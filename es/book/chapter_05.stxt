@@ -146,7 +146,7 @@ Document (globalcampus.site/namespace.stxt):
 		veremos en el [[chapter_07.html|Capítulo 7: Equivalencias e Internacionalización)]].
 		
 	assert:
-		En caso de no usar nombres canónicos hablaríamos de documentos //semicompactados//,
+		En caso de no usar nombres canónicos hablaríamos de documentos _semicompactados_,
 		que siendo correctos no serían tan óptimos como los compactados.
 		
 	Content:

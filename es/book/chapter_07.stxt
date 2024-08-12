@@ -216,7 +216,7 @@ Document (globalcampus.site/namespace.stxt):
 		  	
 	Content:	  
 		Creo que la definición está bastante clara, es como decir que es
-		//como un subconjunto de otro lenguaje más grande//.
+		_como un subconjunto de otro lenguaje más grande_.
 		
 		Otra aplicación podría ser crear puentes entre diferentes documentos.
 		Se puede crear un tipo de documento que sirva como transformador de un lenguaje a otro.
@@ -250,7 +250,7 @@ Document (globalcampus.site/namespace.stxt):
 		Es decir, que los canónicos de B son o bien canónicos de A o alias de A.
 		
 	Content:
-		Esto nos dice que A es una ampliación de B. Aquí lo que hacemos es //ampliar la funcionalidad de B//,
+		Esto nos dice que A es una ampliación de B. Aquí lo que hacemos es _ampliar la funcionalidad de B_,
 		pero permitimos la compatibilidad a la inversa. Es decir, que si tenemos documentos de B también puedan usarse.
 		
 		

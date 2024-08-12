@@ -17,7 +17,7 @@ Document (globalcampus.site/namespace.stxt):
 		que venga de XML, ya que tienen muchos paralelismos con @STxT@
 		(el próximo capítulo trata sobre este tema en particular).
 		
-		Muchos ejemplos los he obtenido de [[http://www.wikipedia.org|Wikipedia|wiki]].
+		Muchos ejemplos los he obtenido de [[http:_www.wikipedia.org|Wikipedia|wiki]].
 		
 		Un ejemplo (inventado) de xml sería:
 		
@@ -114,7 +114,7 @@ Document (globalcampus.site/namespace.stxt):
 	Content:
 		Tengo gran admiración por la wikipedia. Creo que es uno de los mejores proyectos que se han creado en Internet.
 		
-		//¿Como se podría beneficiar de @STxT@?//
+		_¿Como se podría beneficiar de @STxT@?_
 		
 		Bien, la wikipedia podría tener plantillas diferentes:
 		actores, políticos, serie tv, película, ciudades, países, ríos,... compartiendo gramáticas en muchos casos.
@@ -179,7 +179,7 @@ Document (globalcampus.site/namespace.stxt):
 			Nombre: Magic memory
 			Precio: 10€
 			Descripción:
-				Este producto produce un //mágico rejuvenecimiento//
+				Este producto produce un _mágico rejuvenecimiento_
 				de la memoría y proporciona un **inmediato** efecto
 				en todas las personas que lo prueban.
 				
@@ -194,7 +194,7 @@ Document (globalcampus.site/namespace.stxt):
 		al estilo wikipedia.
 		
 	assert:
-		La unión de @STxT@ con //Lightweight markup languages// es simplemente espectacular
+		La unión de @STxT@ con _Lightweight markup languages_ es simplemente espectacular
 		
 	subheader:				
 		Tex, Latex
@@ -203,7 +203,7 @@ Document (globalcampus.site/namespace.stxt):
 		Perdonad si critico mucho. Nunca lo hago sin dar una alternativa o un motivo. Me gustan las críticas constructivas ;-)
 		He visto que uno de los objetivos de TeX es que un documento se imprima igual ahora y dentro de 100 años.
 		Me había parecido perfecto... hasta hoy. Ahora creo que el objetivo debería ser
-		que significara lo mismo ahora que dentro de 100 años, y que se //entienda// ahora y dentro de 100 años.
+		que significara lo mismo ahora que dentro de 100 años, y que se _entienda_ ahora y dentro de 100 años.
 		Y cuanta más gente mejor. Esto no se consigue con TeX, pero Sí con @STxT@.
 		Un documento se entiende hoy y dentro de 100 años. ¿Como creo que debe evolucionar?
 		Yo haría documentos en @STxT@, especificaría una gramática para los distintos tipos de documentos,

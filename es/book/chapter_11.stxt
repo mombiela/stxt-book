@@ -20,7 +20,7 @@ Document (globalcampus.site/namespace.stxt):
 		está disponible en Internet:
 	
 	assert:
-		[[https://github.com/mombiela/stxt-parser | https://github.com/mombiela/stxt-parser]]
+		[[https:_github.com/mombiela/stxt-parser | https:_github.com/mombiela/stxt-parser]]
 		
 	Content:
 		Esta implementación se ha hecho en lenguaje Java, ya que es el que mejor conozco.
@@ -56,7 +56,7 @@ Document (globalcampus.site/namespace.stxt):
 		Procesado de línea
 		
 	Content:
-		El primer paso en el procesado de la línea es la //normalización// de la línea.
+		El primer paso en el procesado de la línea es la _normalización_ de la línea.
 		Una línea está normalizada cuando está en forma compacta (o semicompacta), por lo que hay que comprobar si lo está,
 		y si no lo está, transformarla. En la normalización también se eliminan las líneas de comentarios.
 		

@@ -92,7 +92,7 @@ Document (globalcampus.site/namespace.stxt):
 				Num:
 		
 	Content:
-		* **Name** especifica el nombre del nodo (en ese namespace). También es conocido como //Nombre Canónico//.
+		* **Name** especifica el nombre del nodo (en ese namespace). También es conocido como _Nombre Canónico_.
 		* **Alias** son sinónimos del nombre, que pueden usarse indistintamente en su lugar.
 		* **Type** es el tipo de nodo, y puede tener los siguientes valores:
 		** **NODE**: Nodo contenedor de otros nodos
@@ -116,7 +116,7 @@ Document (globalcampus.site/namespace.stxt):
 		*** +: Tiene que haber al menos 1
 		*** número: Tiene que haber un número exacto de estos hijos
 		
-		//Name// y //alias// no pueden repetirse en todo el namespace.
+		_Name_ y _alias_ no pueden repetirse en todo el namespace.
 		Los nodos hijos también tienen que quedar perfectamente	definidos,
 		sin permitir ambigüedad sobre el namespace al que pertenecen.
 		
@@ -129,7 +129,7 @@ Document (globalcampus.site/namespace.stxt):
 		ya que los tabuladores y espacios iniciales	son substituidos por números.
 		
 		Además, hay que usar el nombre canónico en lugar de los alias. En caso
-		de no usar el nombre canónico hablaríamos de documentos //semicompactados//.
+		de no usar el nombre canónico hablaríamos de documentos _semicompactados_.
 		
 		En nuestro ejemplo anterior, el documento compactado tendría la siguiente forma:
 		
@@ -159,7 +159,7 @@ Document (globalcampus.site/namespace.stxt):
 		2:Este pasajero ha contratado los servicios 
 		2:especiales de privacidad, por lo que en 
 		2:caso de tener disponibilidad se recomienda
-		2:permitirle el acceso a la zona //omega//.
+		2:permitirle el acceso a la zona _omega_.
 		
 	header:
 		Sutilezas del lenguaje
@@ -232,9 +232,9 @@ Document (globalcampus.site/namespace.stxt):
 		Tabuladores o espacios
 		
 	Content:
-		Vamos a explicar una //recomendación// cuando escribamos documentos en @STxT@. 
+		Vamos a explicar una _recomendación_ cuando escribamos documentos en @STxT@. 
 		
-		No es una regla, después explicaremos por qué con más detalle, pero os recomiendo //encarecidamente// que la uséis.
+		No es una regla, después explicaremos por qué con más detalle, pero os recomiendo _encarecidamente_ que la uséis.
 		
 	assert:
 		Los nodos de un documento deben crearse mediante tabuladores.
@@ -282,9 +282,9 @@ Document (globalcampus.site/namespace.stxt):
 		y ver los casos más especiales y como se interpretan. 
 		Si éste es tu caso, sigue leyendo. Estás en el lugar adecuado ;-)
 		
-		//Estas reglas están sobretodo enfocadas al parseo de textos y a la interpretación
+		_Estas reglas están sobretodo enfocadas al parseo de textos y a la interpretación
 		informática. Cuando escribimos @STxT@ sólo hay que tener en cuenta la identación y
-		los niveles, y seguir nuestra intuición.//
+		los niveles, y seguir nuestra intuición._
 	subheader:
 		Todo sobre Identación
 		
@@ -333,7 +333,7 @@ Document (globalcampus.site/namespace.stxt):
 			mollit anim id est laborum.
 		
 	Content:
-		Otra regla importante, es que //las líneas en blanco intermedias// no tienen por qué
+		Otra regla importante, es que _las líneas en blanco intermedias_ no tienen por qué
 		llegar al nivel del texto, y seguirán contando como líneas en blanco.
 		
 		Esto también es una función estética e intuitiva, y lo hemos tenido en cuenta.
@@ -361,7 +361,7 @@ Document (globalcampus.site/namespace.stxt):
 		t    t    t    zz zz
 		
 	Content:
-		Todos hacen un texto //xxxxxxx//, seguido de una línea en blanco y con otra con //zz zz//.
+		Todos hacen un texto _xxxxxxx_, seguido de una línea en blanco y con otra con _zz zz_.
 		
 	subheader:
 		Todo sobre comentarios
@@ -400,7 +400,7 @@ Document (globalcampus.site/namespace.stxt):
 		Vemos que de las 6 líneas que parecen comentarios sólo lo son las 2 primeras,
 		con un nivel inferior o igual al nodo de texto correspondiente.
 		
-		En cambio, fuera de un nodo texto //no importa//, pero se desaconseja:
+		En cambio, fuera de un nodo texto _no importa_, pero se desaconseja:
 		
 	code:
 		Nodo Normal:
@@ -415,7 +415,7 @@ Document (globalcampus.site/namespace.stxt):
 		
 	Content:
 		Bien, ésta es una de las cosas que más me gustan de @STxT@:
-		Permite hacer texto de otros lenguajes //¡sin tener que parsear nada!//.
+		Permite hacer texto de otros lenguajes _¡sin tener que parsear nada!_.
 		¡Sólo hay que tener en cuenta las reglas de identación y ya está!
 		Se puede escribir lo que queramos. A ver cuántos lenguajes pueden decir lo mismo :-D 
 		
@@ -468,13 +468,13 @@ Document (globalcampus.site/namespace.stxt):
 		* Número de Cuenta
 		* Nombre 
 		
-		Ya está. Tenemos una relación en la que ligamos el namespace //www.gym.demo/client.stxt//
-		con sus nodos: //Cliente, Empleado, Número de Cuenta y Nombre//.
+		Ya está. Tenemos una relación en la que ligamos el namespace _www.gym.demo/client.stxt_
+		con sus nodos: _Cliente, Empleado, Número de Cuenta y Nombre_.
 		
 		Y ahora viene lo divertido. En el namespace también se dice qué hijos puede tener cada nodo,
 		y los hijos pueden ser de cualquier namespace, no tienen por qué estar en el mismo.
 		
-		Así, se podría decir que //Cliente// tiene los siguientes hijos:
+		Así, se podría decir que _Cliente_ tiene los siguientes hijos:
 		
 		* Nombre (del mismo namespace, www.gymdemo.org/client.stxt)
 		* Entrenamiento (de otro namespace con la misma url base, www.gym.demo/gymdata.stxt)
@@ -498,7 +498,7 @@ Document (globalcampus.site/namespace.stxt):
 		cada nodo puede pertenecer a un namespace diferente.
 		
 		Así, en el ejemplo anterior que estábamos haciendo, 
-		podemos construir el documento de //Cliente// como:
+		podemos construir el documento de _Cliente_ como:
 		
 	code:
 		Cliente (www.gymdemo.org/client.stxt):

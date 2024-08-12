@@ -63,7 +63,7 @@ Document (globalcampus.site/namespace.stxt):
 		uuu: texto
 		
 	Content:
-		La gramática de //xxx// verifica que el elemento //xxx// tenga la siguiente estructura:
+		La gramática de _xxx_ verifica que el elemento _xxx_ tenga la siguiente estructura:
 		
 	code:
 		xxx:
@@ -88,7 +88,7 @@ Document (globalcampus.site/namespace.stxt):
 		o éste es incorrecto
 		
 	Content:
-		Bien, esto ya lo sabíamos, y lo mejor de todo es que esto es //casi// automático,
+		Bien, esto ya lo sabíamos, y lo mejor de todo es que esto es _casi_ automático,
 		ya que no debemos dar la definición de cada namespace.
 		**Sólo se deberá especificar el namespace del primer nodo**, 
 		los namespaces de los siguientes se deducirán de su gramática
@@ -205,7 +205,7 @@ Document (globalcampus.site/namespace.stxt):
 		
 		**Name**: es el nombre del nodo. Es obligatorio, y sólo puede haber uno. 
 		Además, no puede repetirse en todo el documento, ya que sino habría conflictos.
-		A este nombre también se le llama //Canonical Name//, para distinguirlo de
+		A este nombre también se le llama _Canonical Name_, para distinguirlo de
 		sus posibles alias.
 		
 		**Alias**: es un sinónimo del nombre (Name), y puede haber tantos alias como se quiera.
@@ -218,10 +218,10 @@ Document (globalcampus.site/namespace.stxt):
 		Este campo no es obligatorio, pero sí muy recomendable.
 		
 		**Child**: Especifica un posible nodo hijo. Debe tener los siguientes atributos: Node, Namespace y Num.
-		Este nodo sólo puede aparecer si el //tipo// del nodo es //NODE//.
+		Este nodo sólo puede aparecer si el _tipo_ del nodo es _NODE_.
 		
 		**Node**: Nombre del nodo hijo. Es obligatorio especificar este dato.
-		Hace referencia al //Name// del nodo (o a alguno de sus //Alias//).
+		Hace referencia al _Name_ del nodo (o a alguno de sus _Alias_).
 		No pueden haber dos childs con el mismo nombre de nodo (incluyendo todos sus alias),
 		ya que no se podría deducir el namespace automáticamente.
 		
@@ -343,7 +343,7 @@ Document (globalcampus.site/namespace.stxt):
 		...
 		
 	Content:
-		Ya está. Hemos definido todos los nodos //NODE// de nuestro documento.
+		Ya está. Hemos definido todos los nodos _NODE_ de nuestro documento.
 		Con estos nodos ya podemos ver un poco la estructura que tiene que tener.
 		
 		De forma resumida sería:
@@ -368,7 +368,7 @@ Document (globalcampus.site/namespace.stxt):
 		Nodos de texto
 		
 	Content:
-		Ya hemos dicho anteriormente que los nodos //básicos// más importantes
+		Ya hemos dicho anteriormente que los nodos _básicos_ más importantes
 		son los de texto. De hecho, todos los tipos básicos serán como los de texto,
 		pero restringiendo los valores que puede tomar.
 		
@@ -423,15 +423,15 @@ Document (globalcampus.site/namespace.stxt):
 	subheader:
 		URL
 	Content:
-		Los nodos de este tipo corresponden a una URL. Debe ser una url //absoluta//,
+		Los nodos de este tipo corresponden a una URL. Debe ser una url _absoluta_,
 		de la forma estándar usada en internet. Este tipo también es muy importante,
 		ya que permite asociar un documento con otro disponible en Internet. Se puede
 		usar para referenciar imágenes, webs, páginas, blogs,... ¡o incluso otro documento @STxT@!
 		
 		Ejemplos válidos:
 		
-		* https://www.xxx.demo/doc.stxt
-		* http://www.semantictext.info
+		* https:_www.xxx.demo/doc.stxt
+		* http:_www.semantictext.info
 		* ...
 		
 	header:
@@ -595,7 +595,7 @@ Document (globalcampus.site/namespace.stxt):
 		BOOLEAN
 		
 	Content:
-		Este valor solo permite mostrar un valor binario: //0// o //1//, 
+		Este valor solo permite mostrar un valor binario: _0_ o _1_, 
 		por lo que también lo interpretamos como valor boleano (verdadero o falso).
 		En el ejemplo de cliente, lo usaremos para especificar si un cliente es vip o no:
 		
@@ -843,7 +843,7 @@ Document (globalcampus.site/namespace.stxt):
 		¿Por ejemplo xxxx_1.0.txt? 
 		
 		Depende de cada caso, por supuesto.
-		//¿El documento es definitivo o se espera que vaya a sufrir modificaciones?//
+		_¿El documento es definitivo o se espera que vaya a sufrir modificaciones?_
 		
 		Una opción interesante es tener un documento sin versión siempre actualizado,
 		y mantener documentos intocables con números de versión.
