@@ -1,12 +1,10 @@
-Document (globalcampus.site/namespace.stxt):
+Document (globalcampus.site/namespace.stxt):Capítulo 6: Tutorial Avanzado (*)
 
 	Metadata:
 		Title: Capítulo 6: Tutorial Avanzado
 		Description: Tutorial Avanzado de STxT. Inicialmente se hace un resumen de STxT, gramáticas y compactación.	A continuación se describen aspectos más avanzados de STxT.
 		Author: Joan Costa Mombiela
 		last modif: 2013-03-01
-	
-	title: Capítulo 6: Tutorial Avanzado (*)
 	
 	Content:	
 		Este capítulo será parecido al tutorial del capítulo 3, pero más directo en todo su funcionamiento,

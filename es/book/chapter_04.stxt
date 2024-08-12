@@ -1,12 +1,10 @@
-Document (globalcampus.site/namespace.stxt):
+Document (globalcampus.site/namespace.stxt):Capítulo 4: Creación y uso de gramáticas
 
 	Metadata:
 		Title: Capítulo 4: Creación y uso de gramáticas
 		Description: Uso de gramáticas, namespaces, nodos, sus tipos y todo lo relacionado con las gramáticas en STxT
 		Author: Joan Costa Mombiela
 		last modif: 2013-03-01
-	
-	title: Capítulo 4: Creación y uso de gramáticas
 	
 	Content:	
 		En este capítulo explicaremos las reglas de creación de documentos, 
