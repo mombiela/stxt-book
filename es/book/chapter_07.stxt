@@ -18,8 +18,7 @@ Document (globalcampus.site/namespace.stxt):
 		La mejor forma de trabajar es empezar por un ejemplo, 
 		y después entraremos en el tema de una forma más formal.
 	
-	header:	
-		I18N. Un ejemplo
+	header:	I18N. Un ejemplo
 		
 	Content:	
 		Vamos a hacer un ejemplo sencillo.
@@ -177,16 +176,14 @@ Document (globalcampus.site/namespace.stxt):
 	assert:
 		Una buena forma de internacionalizar es crear una gramática equivalente en otro idioma.
 					
-	header:			
-		Equivalencias (**)
+	header:	Equivalencias (**)
 		
 	Content:
 		Vamos a hablar de relaciones que se pueden hacer entre distintas gramáticas,
 		y de sus posibles transformaciones. Realmente este tema podría dar mucho más de sí,
 		pero sólo vamos a reflexionar un poco, y mostrar ciertas cosas.
 			 
-	subheader:  
-		Gramáticas equivalentes (**)
+	subheader:  Gramáticas equivalentes (**)
 		
 	Content:
 		Decimos que dos gramáticas son equivalentes si cualquier documento
@@ -205,8 +202,7 @@ Document (globalcampus.site/namespace.stxt):
 		son prácticamente iguales. Esto permitiría hacer futuras transformaciones,
 		y todo una serie de trabajos automatizados de una forma muy sencilla.
 		
-	subheader:
-		Gramáticas transformables (o convertibles) (**)
+	subheader:Gramáticas transformables (o convertibles) (**)
 		
 	assert:
 		Una gramática B es transformable en A si al hacer la forma compactada,
@@ -238,8 +234,7 @@ Document (globalcampus.site/namespace.stxt):
 	# Nota: Creo que éste es un tema demasiado complejo para abordarlo en estos momentos, 
 	# pero como punto de partida es muy interesante. 
 		
-	subheader:
-		Extensiones (**)
+	subheader:Extensiones (**)
 		
 	Content:
 		Las extensiones son como las gramáticas transformables, pero miradas desde la gramática de destino.

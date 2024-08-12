@@ -10,8 +10,7 @@ Document (globalcampus.site/namespace.stxt):
 	
 	Title: Capítulo 5: Compactación (*)
 		
-	header:
-		Análisis de la información de @STxT@
+	header:	Análisis de la información de @STxT@
 		
 	Content:
 		Este capítulo trata sobre la compactación de documentos @STxT@.
@@ -66,8 +65,7 @@ Document (globalcampus.site/namespace.stxt):
 	Content:
 		Ahora sólo se trata de incluir esta información. De esto trata la siguiente sección.
 		
-	header:
-		Una forma de compactación
+	header:	Una forma de compactación
 		
 	Content:
 		A partir de la tabla anterior, vamos a proponer una forma de compactar la información.
@@ -161,8 +159,7 @@ Document (globalcampus.site/namespace.stxt):
 		Substituir los tabuladores de inicio por: \\
 		número de tabuladores + ':'
 		
-	header:
-		Otros ejemplos
+	header:	Otros ejemplos
 		
 	Content:
 		Si compactamos la receta de los buñuelos, nos quedaría el siguiente texto:
@@ -284,8 +281,7 @@ Document (globalcampus.site/namespace.stxt):
 		2:Titular cuenta: Joan Costa Mombiela
 		2:Número cuenta: 0000-0000-00-000000000
 		
-	header:
-		Utilidad
+	header:	Utilidad
 		
 	Content:
 		La utilidad de la compactación es crear un formato un poco más eficiente,

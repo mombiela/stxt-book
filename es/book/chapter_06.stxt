@@ -15,11 +15,9 @@ Document (globalcampus.site/namespace.stxt):
 		y se explicarán todas las complejidades reales.
 		
 		**¡No os lo perdáis!**	
-	header:
-		Recordatorio de @STxT@
+	header:	Recordatorio de @STxT@
 		
-	subheader:
-		¿Qué es @STxT@?
+	subheader:¿Qué es @STxT@?
 	Content:
 		Un documento @STxT@ consiste en un conjunto de nodos jerárquicos, 
 		y la estructura de cada nodo está definida en su namespace correspondiente.
@@ -68,8 +66,7 @@ Document (globalcampus.site/namespace.stxt):
 		la gramática y estructura del documento; la cual se tiene que cumplir
 		para considerar un documento correcto.
 		
-	subheader:
-		Gramáticas
+	subheader: Gramáticas
 		
 	Content:
 		La gramática de un documento define como son los diferentes nodos del documento,
@@ -120,8 +117,7 @@ Document (globalcampus.site/namespace.stxt):
 		Los nodos hijos también tienen que quedar perfectamente	definidos,
 		sin permitir ambigüedad sobre el namespace al que pertenecen.
 		
-	subheader:
-		Compactación
+	subheader: Compactación
 		
 	Content:
 		Un documento @STxT@ puede compactarse para mostrar explícitamente los niveles
@@ -161,11 +157,9 @@ Document (globalcampus.site/namespace.stxt):
 		2:caso de tener disponibilidad se recomienda
 		2:permitirle el acceso a la zona _omega_.
 		
-	header:
-		Sutilezas del lenguaje
+	header:Sutilezas del lenguaje
 		
-	subheader:
-		Restricciones en los nombres de los nodos
+	subheader:Restricciones en los nombres de los nodos
 		
 	Content:
 		Los nombres de los nodos pueden ser como queramos... ¡o casi!
@@ -193,8 +187,7 @@ Document (globalcampus.site/namespace.stxt):
 		tabuladores o espacios + nombre del campo + ':'\\
 		[+ contenido del campo si es básico]
 				 
-	subheader:
-		Case insensitive
+	subheader:Case insensitive
 		
 	assert:
 		**Los identificadores son CASE-INSENSITIVE!**
@@ -211,8 +204,7 @@ Document (globalcampus.site/namespace.stxt):
 		Es posible que en otros casos esté justificado, pero en @STxT@ parece justo lo contrario. 
 		Siempre nos preocupamos por la semántica, y claramente los nombres tienen
 		el mismo significado en mayúsculas que en minúsculas.
-	subheader:
-		Codificación UTF-8
+	subheader:Codificación UTF-8
 		
 	Content:
 		Este problema ha sido intrínseco a la informática durante muchos años.
@@ -228,8 +220,7 @@ Document (globalcampus.site/namespace.stxt):
 		Es una buena regla y estoy muy contento con ella. Hoy en día es la codificación más aceptable,
 		más universal, y más implementada. No creo que esto cambie en los próximos años. 
 		
-	subheader:
-		Tabuladores o espacios
+	subheader:Tabuladores o espacios
 		
 	Content:
 		Vamos a explicar una _recomendación_ cuando escribamos documentos en @STxT@. 
@@ -272,8 +263,7 @@ Document (globalcampus.site/namespace.stxt):
 		Vemos que esto es coherente con la mayoría de editores de texto;
 		siempre que se configure con la opción de "1 tabulador = 4 espacios".
 		
-	header:
-		Texto (**)
+	header:Texto (**)
 		
 	Content:
 		Escribir texto en @STxT@ parece fácil... ¡y en realidad lo es! :-)
@@ -285,8 +275,7 @@ Document (globalcampus.site/namespace.stxt):
 		_Estas reglas están sobretodo enfocadas al parseo de textos y a la interpretación
 		informática. Cuando escribimos @STxT@ sólo hay que tener en cuenta la identación y
 		los niveles, y seguir nuestra intuición._
-	subheader:
-		Todo sobre Identación
+	subheader:Todo sobre Identación
 		
 	Content:
 		La identación en texto tiene algunas sutilezas que vamos a enseñar, y lo haremos con ejemplos.
@@ -363,8 +352,7 @@ Document (globalcampus.site/namespace.stxt):
 	Content:
 		Todos hacen un texto _xxxxxxx_, seguido de una línea en blanco y con otra con _zz zz_.
 		
-	subheader:
-		Todo sobre comentarios
+	subheader:Todo sobre comentarios
 		
 	Content:
 		Los comentarios son muy útiles, y ya conocemos su funcionamiento:
@@ -410,8 +398,7 @@ Document (globalcampus.site/namespace.stxt):
 			Otro nodo:
 				Otro nodo:
 		
-	subheader:
-		Texto en el texto
+	subheader:Texto en el texto
 		
 	Content:
 		Bien, ésta es una de las cosas que más me gustan de @STxT@:
@@ -443,8 +430,7 @@ Document (globalcampus.site/namespace.stxt):
 				y_{i+1} = x_{i}^{2n} - \sqrt{5}x_{i-1}^{n} + \sqrt{x_{i-2}^7} -1
 			\end{equation}
 		
-	header:
-		Namespaces, nodos y más nodos (**)
+	header:Namespaces, nodos y más nodos (**)
 		
 	Content:
 		Me gustaría volver a dar un poco de vueltas a los nodos, 
@@ -453,8 +439,7 @@ Document (globalcampus.site/namespace.stxt):
 		los conceptos voy a repetirme un poco. Espero no liaros, realmente todo es fácil y sencillo.
 		Pero no estoy tranquilo si no lo hago ;-)
 		
-	subheader:
-		¿Qué es un namespace?
+	subheader:¿Qué es un namespace?
 		
 	Content:
 		Un namespace es una agrupación de definición de nodos y la descripción
@@ -482,8 +467,7 @@ Document (globalcampus.site/namespace.stxt):
 			
 		Lo mismo podríamos hacer con todos los otros nodos.
 		
-	subheader:
-		¿Qué es un documento @STxT@?
+	subheader:¿Qué es un documento @STxT@?
 		
 	Content:
 		Un documento @STxT@ es un conjunto de nodos anidados.
@@ -518,8 +502,7 @@ Document (globalcampus.site/namespace.stxt):
 		qué es cada elemento, de una forma muy sencilla.
 		Y sólo hemos tenido que decir cuál es el elemento principal.
 	
-	subheader:
-		Restricciones en los nodos hijos
+	subheader:Restricciones en los nodos hijos
 		 
 	Content:
 		Debido a la deducción automática del namespace, los

@@ -147,8 +147,7 @@ Document (globalcampus.site/namespace.stxt):
 	Content:
 		Hay muchas posibilidades, me gustan todas con @STxT@ ;-)
 	
-	header:
-		Una propuesta definitiva
+	header:Una propuesta definitiva
 		
 	Content:
 		Al final lo he hecho. Inicialmente no quería, pero no lo he podido evitar.
@@ -313,8 +312,7 @@ Document (globalcampus.site/namespace.stxt):
 			Id:2
 			Name:John
 		
-	subheader:
-		El ejemplo
+	subheader:El ejemplo
 		
 	code:
 		Web Service Definitions(www.semantictext.info/web_services.stxt):
@@ -370,8 +368,7 @@ Document (globalcampus.site/namespace.stxt):
 				* 2: Error
 				* 3: Fatal error
 		
-	subheader:
-		La reflexión
+	subheader:La reflexión
 		
 	Content:
 		En unas pocas líneas hemos condensado gran cantidad de información,

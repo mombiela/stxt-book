@@ -26,8 +26,7 @@ Document (globalcampus.site/namespace.stxt):
 	Content:
 		Cuando terminemos ya casi seréis unos expertos de @STxT@ :-)
 		
-	header:
-		Namespaces y gramáticas (*)
+	header:	Namespaces y gramáticas (*)
 		
 	Content:	
 		Vamos a distinguir entre namespaces y gramáticas.
@@ -72,8 +71,7 @@ Document (globalcampus.site/namespace.stxt):
 			ttt:
 				uuu:
 		
-	header:
-		Regla básica (*)
+	header:	Regla básica (*)
 		
 	assert:
 		Un documento es válido si todos sus nodos son válidos de acuerdo con la gramática.
@@ -106,8 +104,7 @@ Document (globalcampus.site/namespace.stxt):
 		Es por esto que para ello sólo nos tendremos que centrar en un nodo, 
 		y repetir la verificación en cada uno de ellos.
 		
-	header:
-		Un ejemplo para empezar
+	header:	Un ejemplo para empezar
 		
 	Content:
 		Vamos a hacer un ejemplo, pero ahora iremos a la inversa que en el capítulo anterior.
@@ -140,8 +137,7 @@ Document (globalcampus.site/namespace.stxt):
 		
 		**¡Que empiece la fiesta! :-D**
 		
-	header:
-		Cómo se crean y se leen los Namespaces
+	header:	Cómo se crean y se leen los Namespaces
 		
 	Content:
 		Crear un namespace es crear un documento @STxT@ con una estructura determinada
@@ -273,8 +269,7 @@ Document (globalcampus.site/namespace.stxt):
 			Name: Nombre
 			...
 		
-	header:
-		Nodos de tipo NODE
+	header:	Nodos de tipo NODE
 		
 	Content:
 		El nodo con el tipo NODE es quizá el más importante, ya que siempre tiene que estar.
@@ -364,8 +359,7 @@ Document (globalcampus.site/namespace.stxt):
 	Content:
 		Ahora sólo falta definir como serán los otros tipos de nodos.
 		
-	header:
-		Nodos de texto
+	header:	Nodos de texto
 		
 	Content:
 		Ya hemos dicho anteriormente que los nodos _básicos_ más importantes
@@ -374,8 +368,7 @@ Document (globalcampus.site/namespace.stxt):
 		
 		Ahora vamos a revisar todos los que hay, y los aplicaremos a nuestro ejemplo.
 		
-	subheader:
-		TEXT 
+	subheader: TEXT 
 		
 	Content:
 		Los nodo de este tipo corresponden a texto, sin ninguna restricción concreta.
@@ -420,8 +413,7 @@ Document (globalcampus.site/namespace.stxt):
 		...
 		...	
 	
-	subheader:
-		URL
+	subheader: URL
 	Content:
 		Los nodos de este tipo corresponden a una URL. Debe ser una url _absoluta_,
 		de la forma estándar usada en internet. Este tipo también es muy importante,
@@ -434,8 +426,7 @@ Document (globalcampus.site/namespace.stxt):
 		* http:_www.semantictext.info
 		* ...
 		
-	header:
-		Nodos Numéricos
+	header:	Nodos Numéricos
 		
 	Content:
 		Hay cuatro tipos de nodos numéricos, y corresponden a conjuntos matemáticos concretos.
@@ -451,8 +442,7 @@ Document (globalcampus.site/namespace.stxt):
 		* RATIONAL
 		* NUMBER
 		
-	subheader:
-		NATURAL
+	subheader: NATURAL
 		
 	Content:
 		Entendemos por números naturales cualquier número mayor o igual a 0 sin decimales. 
@@ -480,8 +470,7 @@ Document (globalcampus.site/namespace.stxt):
 		...
 		...	
 		
-	subheader:
-		INTEGER
+	subheader: INTEGER
 		
 	Content:
 		Entendemos por números enteros cualquier número sin decimales, positivos o negativos. 
@@ -493,8 +482,7 @@ Document (globalcampus.site/namespace.stxt):
 		* 23874283
 		* ...
 		
-	subheader:
-		RATIONAL
+	subheader: RATIONAL
 		
 	Content:
 		Los números racionales serán números de la forma aaa/bbb, dónde aaa y bbb son naturales.
@@ -507,8 +495,7 @@ Document (globalcampus.site/namespace.stxt):
 		* 238942598534/43253457438573
 		* ...
 		
-	subheader:
-		NUMBER
+	subheader: NUMBER
 		
 	Content:
 		Los números son el tipo genérico para numéricos con decimales, 
@@ -524,11 +511,9 @@ Document (globalcampus.site/namespace.stxt):
 		* 2398754385734e-122
 		* ...
 		
-	header:
-		Nodos con Bits
+	header: Nodos con Bits
 		
-	subheader:
-		BINARY
+	subheader: BINARY
 		
 	Content:
 		Se trata de mostrar valores binarios, en los que sólo es posible usar 0 o 1's.
@@ -541,8 +526,7 @@ Document (globalcampus.site/namespace.stxt):
 		* 1010
 		* ...
 		
-	subheader:
-		HEXADECIMAL
+	subheader: HEXADECIMAL
 		
 	Content:
 		Este tipo de nodo es para mostrar valores binarios, pero en formato hexadecimal.
@@ -556,8 +540,7 @@ Document (globalcampus.site/namespace.stxt):
 		* 523a
 		* ...
 		
-	subheader:
-		BASE64
+	subheader: BASE64
 		
 	Content:
 		Este tipo de nodo también es para mostrar valores binarios, 
@@ -591,8 +574,7 @@ Document (globalcampus.site/namespace.stxt):
 		...
 		...
 		
-	subheader:
-		BOOLEAN
+	subheader: BOOLEAN
 		
 	Content:
 		Este valor solo permite mostrar un valor binario: _0_ o _1_, 
@@ -608,14 +590,12 @@ Document (globalcampus.site/namespace.stxt):
 		...
 		...	
 		
-	header:
-		Un ejemplo para finalizar
+	header: Un ejemplo para finalizar
 		
 	Content:
 		Bien, ahora que casi hemos terminado, veremos la gramática completa, y un ejemplo de documento.
 		
-	subheader:
-		La gramática
+	subheader: La gramática
 		
 	code:
 		Namespace Definition(www.semantictext.info/namespace.stxt):
@@ -716,8 +696,7 @@ Document (globalcampus.site/namespace.stxt):
 			Type: BOOLEAN
 			Name: Cliente vip
 		
-	subheader:
-		El ejemplo
+	subheader: El ejemplo
 		
 	Content:
 		Espero que sea suficientemente explicativo :-)
@@ -835,8 +814,7 @@ Document (globalcampus.site/namespace.stxt):
 	assert:
 		Fin. ¿Os ha gustado?	
 		
-	header:
-		Una última reflexión (*)
+	header: Una última reflexión (*)
 		
 	Content:
 		¿Es una buena costumbre introducir el nombre de la versión en la gramática? 
@@ -849,8 +827,7 @@ Document (globalcampus.site/namespace.stxt):
 		y mantener documentos intocables con números de versión.
 		Esta es una solución híbrida que creo correcta para muchos casos.
 		
-	header:
-		Gramática de la gramática (**)
+	header: Gramática de la gramática (**)
 		
 	Content:
 		Un documento sólo tiene sentido si se tiene la gramática previa.

@@ -13,8 +13,7 @@ Document (globalcampus.site/namespace.stxt):
 		Te explicamos lo que es @STxT@ directamente, sin más preámbulos.
 		Y además te damos las nociones suficientes para que puedas leer cualquier otro capítulo.
 		
-	header:
-		Un ejemplo... ¡ya!
+	header:	Un ejemplo... ¡ya!
 		
 	Content:
 		Éste es el primer lenguaje que conozco dónde se puede empezar con un ejemplo
@@ -231,8 +230,7 @@ Document (globalcampus.site/namespace.stxt):
 		Después continua.
 		O mejor: descansa, lo vuelves a leer y pasas al próximo apartado :-) 
 		
-	header:
-		Nodos e identación
+	header:	Nodos e identación
 	
 	Content:	
 		Antes hemos dicho que un documento @STxT@ es un conjunto de nodos anidados. Pero no hemos dicho
@@ -340,8 +338,7 @@ Document (globalcampus.site/namespace.stxt):
 			Nodo 6: Texto nodo 6
 			Nodo 7: Texto nodo 7
 		
-	header:
-		Nodo y Texto
+	header:	Nodo y Texto
 		
 	Content:
 		Los tipos de nodo más habituales en los documentos @STxT@ son NODO y TEXTO.
@@ -380,8 +377,7 @@ Document (globalcampus.site/namespace.stxt):
 					<nodo2>Esto es un ejemplo de escape: &lt; </nodo2>
 				</nodo>
 		
-	header:
-		Comentarios
+	header:	Comentarios
 		
 	Content:
 		Todos los informáticos saben qué son los comentarios en cualquier lenguaje.
@@ -429,8 +425,7 @@ Document (globalcampus.site/namespace.stxt):
 		Cualquier línea que empiece por # será tratada como comentario,
 		y no será tenida en cuenta ni en programas ni en comunicaciones.
 		
-	header:
-		Por fin, la gramática
+	header:	Por fin, la gramática
 		 
 	Content:
 		Y aquí está la gramática. O la definición de nodos del namespace.
@@ -490,8 +485,7 @@ Document (globalcampus.site/namespace.stxt):
 		Por lo que hace a Num tenemos las siguientes posibilidades: número, ?, +, *
 		Todos ellos son muy intuitivos para quien está acostumbrado a trabajar con expresiones regulares.
 		    
-	header:
-		Resumen
+	header:	Resumen
 		
 	Content:
 		* Un documento @STxT@ es un conjunto de nodos jerárquicos.
