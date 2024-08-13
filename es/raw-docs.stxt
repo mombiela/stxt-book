@@ -87,7 +87,7 @@ Document (globalcampus.site/namespace.stxt): Documentos sin namespace
 	Subheader: Nodos multilínea
 	
 	Content: 
-		Estos nodos permiten tener textos completos. En documentos con namespace
+		Estos nodos permiten tener **textos completos en varias líneas**. En documentos con namespace
 		serán equivalentes a nodos tipo `TEXT`. Se construyen con líneas
 		que empiezan por `:`, pero sin una etiqueta previa. Ejemplo:
 		
