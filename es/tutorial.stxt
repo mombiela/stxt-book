@@ -142,7 +142,6 @@ Document (globalcampus.site/namespace.stxt): Tutorial
 	Header: Fin del tutorial
 
 	Alert:
-		Por favor, no continúes. Vuelve a leer este apartado al menos otra vez.
-		Después continua.
-		O mejor: descansa, lo vuelves a leer y pasas al próximo apartado :-) 
+		Por favor, no continúes. Vuelve a leer este apartado al menos otra vez.	Después continua.\
+		O mejor: lo vuelves a leer, descansas y pasas al próximo apartado :-) 
 		
