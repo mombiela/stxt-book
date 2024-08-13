@@ -5,3 +5,5 @@ Document (globalcampus.site/namespace.stxt): Insert a name
 	
 	Content:
 		This is a content, **wiki format!!**
+
+	Alert: No se permiten nodos multiline en documentos con namespace
