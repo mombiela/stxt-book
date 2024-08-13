@@ -1,7 +1,130 @@
 Document (globalcampus.site/namespace.stxt): Tutorial
 
-	Header:	This is a header
-	Subheader: This is a subheader
+	Content:
+		Si tuvieras que leer sólo un capítulo de este libro, éste sería el capítulo. 
+		Te explicamos lo que es @STxT@ directamente, sin más preámbulos.
+		Y además te damos las nociones suficientes para que puedas leer cualquier otro capítulo.
+		
+	header:	Un ejemplo... ¡ya!
+		
+	subheader: Documentos sin namespace
+		
+	Content:
+		Éste es el primer lenguaje que conozco dónde se puede empezar con un ejemplo
+		y _todo el mundo_ lo puede llega a entender.
+		
+		El ejemplo será una receta de cocina. ¡Adelante!
+		
+	Code:
+		Receta: Receta de macarrones
+			Descripción:
+				:Esta es la descripción de la recta de macarrones.
+				:Bla, bla, bla
+				:Bla, bla, bla
+			Comensales: 3
+			Dificultad: fácil
+			Ingredientes:
+				Ingrediente: (100g) Tomate
+				Ingrediente: (240g) Macarrones
+			Pasos:
+				Paso: (1) Hacer sofrito
+				Paso: (2) Hervir macarrones
+				Paso: (3) Juntar macarrones con sofrito y servir
+	Content:
+		Fácil, ¿verdad? De acuerdo, no soy un gran chef :-D pero se entiende perfectamente.
+		
+	Alert: No uséis esta receta en casa, esperad al próximo capítulo ;-)
+	
+	Bien, acabáis de ver lo que es un **documento @STxT@ sin namespace**. Este tipo de documentos
+	son estructurados, pero no sabemos que forma tienen los nodos. De cualquier manera ya 
+	se puede ver que tienen estructura, con un nodo principal `Receta`, el qual tiene
+	un nodo `Descripción`, `Ingredientes`, etc. A su vez estos nodos tienen otros, y así
+	hasta formar una estructura jerárquica. 
+	
+	Vale la pena mencionar el nodo `Descripción` que es un nodo que permite **multilíneas**.
+	Al no tener una estructura previa se distinguen porque estan anidados pero las
+	líneas no tienen etiqueta previa. Esto es muy importante para los documentos sin namespace.
+	
+	Subheader: Documentos con namespace
+	
+	Content: 
+		Ahora iremos más allá, y definiremos la misma receta con un namespace.
+		Primero mostraremos como queda la receta, y después mostraremos el
+		namespace. Podéis pensar que normalmente se debería hacer al revés,
+		pero la realidad es que la mayoría de las veces tendremos un ejemplo
+		y de forma posterior definiremos el caso general.
+		
+		Aquí tenemos la receta:
+		
+	Code:
+		Receta (www.kocinando.com/receta.stxt): Receta de macarrones
+			Descripción:
+				Esta es la descripción de la recta de macarrones.
+				Bla, bla, bla
+				Bla, bla, bla
+			Comensales: 3
+			Dificultad: fácil
+			Ingredientes:
+				Ingrediente: (100g) Tomate
+				Ingrediente: (240g) Macarrones
+			Pasos:
+				Paso: (1) Hacer sofrito
+				Paso: (2) Hervir macarrones
+				Paso: (3) Juntar macarrones con sofrito y servir
+	
+	Content: 
+		¿Qué ha cambiado? Bien, ahora la receta tiene un namespace asocidado,
+		que es `www.kocinando.com/receta.stxt`, y el nodo `Descripción` parece
+		más natural. **Pues ya está :-)** Hemos convertido un documento sin namespace
+		a otro con namespace, con sólo añadir a quien pertenece y eliminando el caracter `:`
+		de los campos multilínea. 
+		
+		No podía ser más sencillo ;-)
+		
+		Ahora creamos el namespace. **La definición del namespace se encuentra en
+		un documento sin namespace**. En la versión anterior de STxT no era así,
+		pero complicaba los parseadores, y te obligaba a tener siempre definición
+		de namespace. Ahora ésto ha cambiado, y todo se ha simplificado mucho.
+		
+		Aquí está el namespace que podemos crear para el ejemplo:
+		
+	Code:
+		Namespace: www.kocinando.com/receta.stxt
+			Receta:
+			    Descripción: (?) TEXT
+			    Comensales: (?) NUMBER
+				Dificultad: (?) ENUM
+				   	: fácil
+				   	: media
+			    	: difícil
+			    Ingredientes: (1)
+					Ingrediente: (+)
+			    Pasos: (1)
+			    	Paso: (+)
 	
 	Content:
-		Tutorial...
+		Es muy intuitivo, la propia estructura es un reflejo del órden jerárquico, indicando
+		el tipo del nodo si hiciera falta.
+		
+		El namespace **debería poderse consultar vía internet** en la misma url que lo indica.
+		Así, este namespace debería estar disponible mediante la url `https://www.kocinando.com/receta.stxt`. 
+		Los parseadores deberían tenerlo disponible de forma local, y es mejor que sea así por rendimiento.
+		
+		Más adelante hablaremos en profundidad de los namespaces, pero hacer un documento a partir de ellos
+		debería ser mucho más sencillo que en otros lenguajes.
+	
+	Header: Otros elementos
+	Subheader: Comentarios
+	
+	Content:  
+		Bla, bla, bla,...\
+		Bla, bla, bla,...\
+		Bla, bla, bla,...\
+		Bla, bla, bla,...\
+		Bla, bla, bla,...
+
+	Alert:
+		Por favor, no continúes. Vuelve a leer este apartado al menos otra vez.
+		Después continua.
+		O mejor: descansa, lo vuelves a leer y pasas al próximo apartado :-) 
+		
