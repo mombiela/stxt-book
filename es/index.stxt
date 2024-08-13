@@ -8,10 +8,10 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 	Section:
 		Link: (chapter_00_a) Profecía
 		Link: (chapter_00_b) Poesía
+		Link: (chapter_01) Prologo
 		Link: (index) Contenidos
 	
 	Section: STXT: Un nuevo lenguaje
-		Link: (chapter_01) Capítulo 1: ¿Cómo leer este libro?
 		Link: (intro-2024) Introducción a @STxT@ - 2024
 		Link: (chapter_02) Capítulo 2: ¿Qué es @STxT@?
 		Link: (tutorial) Tutorial
