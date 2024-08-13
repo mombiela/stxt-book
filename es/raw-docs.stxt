@@ -51,7 +51,7 @@ Document (globalcampus.site/namespace.stxt): Documentos sin namespace
 		Ejemplo:
 
 	Code:
-		Receta (www.kocinando.com/receta.stxt): Receta de macarrones
+		Receta: Receta de macarrones
 		***# (1) Esto es un comentario***
 		***# (2) Esto también es un comentario***
 			***# (3) Esto también es un comentario***
@@ -92,7 +92,7 @@ Document (globalcampus.site/namespace.stxt): Documentos sin namespace
 		que empiezan por `:`, pero sin una etiqueta previa. Ejemplo:
 		
 	Code:
-		Receta (www.kocinando.com/receta.stxt): Receta de macarrones
+		Receta: Receta de macarrones
 			***Descripción:***
 				***:Esta es la descripción de la recta de macarrones.***
 				***:Bla, bla, bla***
