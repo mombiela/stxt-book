@@ -90,7 +90,7 @@ Document (globalcampus.site/namespace.stxt): Tutorial
 		Aquí está el namespace que podemos crear para el ejemplo:
 		
 	Code:
-		Namespace: www.kocinando.com/receta.stxt
+		***Namespace: www.kocinando.com/receta.stxt***
 			Receta:
 			    Descripción: (?) TEXT
 			    Comensales: (?) NUMBER
