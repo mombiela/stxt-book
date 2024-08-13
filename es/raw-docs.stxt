@@ -53,8 +53,8 @@ Document (globalcampus.site/namespace.stxt): Documentos sin namespace
 	Code:
 		Receta (www.kocinando.com/receta.stxt): Receta de macarrones
 		***# (1) Esto es un comentario***
-		***# (2) Esto también es un comentario**
-			***# (3) Esto también es un comentario**
+		***# (2) Esto también es un comentario***
+			***# (3) Esto también es un comentario***
 			Descripción:
 				:Esta es la descripción de la recta de macarrones.
 				:Bla, bla, bla
