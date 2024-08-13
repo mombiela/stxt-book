@@ -141,6 +141,21 @@ Document (globalcampus.site/namespace.stxt): Tutorial
 				Paso: (3) Juntar macarrones con sofrito y servir	
 	Header: Fin del tutorial
 
+	Subheader: Distintos namespaces en un documento
+	
+	Content: 
+		Un namespace puede hacer referencia a otro, para indicar que
+		una parte del documento tiene la estructura en otro namespace.
+		Mejor ver un ejemplo:
+		
+	Code: 
+		Namespace: www.kocinando.com/recetario.stxt
+			Recetario:
+				Receta: (+) ***(www.kocinando.com/receta.stxt)***
+
+	Content: Aquí vemos que `Receta` es de otro namespace y vemos que
+		en vez de poner la estructura se hace referencia a otro namespace.
+	
 	Alert:
 		Por favor, no continúes. Vuelve a leer este apartado al menos otra vez.	Después continua.\
 		O mejor: lo vuelves a leer, descansas y pasas al próximo apartado :-) 
