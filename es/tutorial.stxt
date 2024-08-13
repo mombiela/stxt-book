@@ -58,7 +58,7 @@ Document (globalcampus.site/namespace.stxt): Tutorial
 		Aquí tenemos la receta:
 		
 	Code:
-		Receta (www.kocinando.com/receta.stxt): Receta de macarrones
+		Receta ***(www.kocinando.com/receta.stxt)***: Receta de macarrones
 			Descripción:
 				Esta es la descripción de la recta de macarrones.
 				Bla, bla, bla
@@ -118,11 +118,28 @@ Document (globalcampus.site/namespace.stxt): Tutorial
 	Subheader: Comentarios
 	
 	Content:  
-		Bla, bla, bla,...\
-		Bla, bla, bla,...\
-		Bla, bla, bla,...\
-		Bla, bla, bla,...\
-		Bla, bla, bla,...
+		Es posible insertar comentarios en los documentos para 
+		expresar partes no finalizadas, pensamientos del autor, etc.
+		Los comentarios no se usarán pero permiten enriquecer el documento.
+		
+	Code:
+		Receta (www.kocinando.com/receta.stxt): Receta de macarrones
+		***# Esta receta me la pasó XX y la he hecho un montón de veces***
+		***# Os gustará mucho!!***
+			Descripción:
+				Esta es la descripción de la recta de macarrones.
+				Bla, bla, bla
+				Bla, bla, bla
+			Comensales: 3
+			Dificultad: fácil
+			Ingredientes:
+				Ingrediente: (100g) Tomate
+				Ingrediente: (240g) Macarrones
+			Pasos:
+				Paso: (1) Hacer sofrito
+				Paso: (2) Hervir macarrones
+				Paso: (3) Juntar macarrones con sofrito y servir	
+	Header: Fin del tutorial
 
 	Alert:
 		Por favor, no continúes. Vuelve a leer este apartado al menos otra vez.
