@@ -139,7 +139,6 @@ Document (globalcampus.site/namespace.stxt): Tutorial
 				Paso: (1) Hacer sofrito
 				Paso: (2) Hervir macarrones
 				Paso: (3) Juntar macarrones con sofrito y servir	
-	Header: Fin del tutorial
 
 	Subheader: Distintos namespaces en un documento
 	
@@ -156,6 +155,8 @@ Document (globalcampus.site/namespace.stxt): Tutorial
 	Content: Aquí vemos que `Receta` es de otro namespace y vemos que
 		en vez de poner la estructura se hace referencia a otro namespace.
 	
+	Header: Fin del tutorial
+
 	Alert:
 		Por favor, no continúes. Vuelve a leer este apartado al menos otra vez.	Después continua.\
 		O mejor: lo vuelves a leer, descansas y pasas al próximo apartado :-) 
