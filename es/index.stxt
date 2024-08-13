@@ -12,6 +12,7 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 	
 	Section: STXT: Un nuevo lenguaje
 		Link: (intro-2024) Introducción a @STxT@ - 2024
+		Link: (chapter_02) Capítulo 2: ¿Qué es @STxT@?
 		Link: (tutorial) Tutorial
 		Link: (ai-powered) Potenciado con IA
 		
@@ -35,7 +36,6 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		
 	Section: Antiguos capítulos
 		Link: (chapter_01) Capítulo 1: ¿Cómo leer este libro?
-		Link: (chapter_02) Capítulo 2: ¿Qué es @STxT@?
 		Link: (chapter_03) Capítulo 3: @STxT@, Tutorial
 		Link: (chapter_04) Capítulo 4: Creación y uso de gramáticas
 		Link: (chapter_05) Capítulo 5: Compactación (*)
