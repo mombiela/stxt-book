@@ -22,6 +22,15 @@ Document (globalcampus.site/namespace.stxt): Documentos sin namespace
 
 	Content: Vamos a profundizar un poco más.
 
+	header: Identificadores
+	
+	Assert: Los Identificadores son CASE-INSENSITIVE
+	
+	Assert: 
+		Se permiten espacios en los nombres. \
+		¿Por qué no? ¿Para parecer informáticos?\
+		Los tiempos están cambiando :-D
+
 	header: Caracteres de escape
 	
 	Assert: No existen caracteres de escape
