@@ -126,10 +126,10 @@ Document (globalcampus.site/namespace.stxt): Documentos sin namespace
 			Comensales: 3
 			Dificultad: fácil
 			Ingredientes:
-				Ingrediente: (100g) Tomate
-				Ingrediente: (240g) Macarrones
+				Ingrediente: ***(100g) Tomate***
+				Ingrediente: ***(240g) Macarrones***
 			Pasos:
 				Paso: ***(1) Hacer sofrito***
 				Paso: ***(2) Hervir macarrones***
-				Paso: ***(3) Juntar macarrones con sofrito y servir***	
+				Paso: ***(3) Juntar macarrones con sofrito y servir***
 	

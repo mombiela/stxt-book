@@ -11,14 +11,14 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (index) Contenidos
 	
 	Section: STXT: Un nuevo lenguaje
-		Link: (intro-2024) Introducción a @STxT@ (2024)
+		Link: (intro-2024) Introducción a @STxT@ - 2024
 		Link: (tutorial) Tutorial
 		Link: (ai-powered) Potenciado con IA
 		
 	Section: Documentos
 		Link: (raw-docs) Documentos sin namespace 
-		Link: (ns-docs-1) Documentos con namespace (I)
-		Link: (ns-docs-2) Documentos con namespace (II)
+		Link: (ns-docs-1) Documentos con namespace - I
+		Link: (ns-docs-2) Documentos con namespace - II
 		Link: (examples) Ejemplos
 		
 	Section: Reflexiones	
@@ -31,7 +31,7 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 	
 	Section: Anexos
 		Link: (chapter_11) Capítulo 11: Parseo de STxT
-		Link: (intro-2013)  Introducción a @STxT@ (2013)
+		Link: (intro-2013)  Introducción a @STxT@ - 2013
 		
 	Section: Antiguos capítulos
 		Link: (chapter_01) Capítulo 1: ¿Cómo leer este libro?
