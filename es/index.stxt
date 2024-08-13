@@ -2,7 +2,7 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 	Title: STxT: El libro
 	Menu:
 		Link: (index) Índice
-		Link: (chapter_03) Tutorial
+		Link: (tutorial) Tutorial
 		Link: (chapter_09) XWM y STXT
 		
 	Section:
@@ -11,7 +11,7 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (index) Contenidos
 	
 	Section: STXT: Un nuevo lenguaje
-		Link: (introduccion) Introducción
+		Link: (tutorial) Tutorial
 		Link: (ai-powered) Potenciado con IA
 		Link: (examples) Ejemplos
 		
@@ -25,8 +25,7 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (chapter_end) Final
 	
 	Section: Anexos
-		Link: (origen) Origen
-		Link: (old-docs-intro) Introducción 2013
+		Link: (intro-2013) Introducción 2013
 		
 	Section: Antiguos capítulos
 		Link: (chapter_01) Capítulo 1: ¿Cómo leer este libro?
