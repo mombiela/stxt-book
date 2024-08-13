@@ -11,7 +11,7 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (index) Contenidos
 	
 	Section: STXT: Un nuevo lenguaje
-		Link: (intro-2024) ¿Qué es @STxT@?
+		Link: (intro-2024) Introducción a @STxT@ (2024)
 		Link: (tutorial) Tutorial
 		Link: (ai-powered) Potenciado con IA
 		Link: (examples) Ejemplos
@@ -26,7 +26,7 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (chapter_end) Final
 	
 	Section: Anexos
-		Link: (intro-2013) Introducción 2013
+		Link: (intro-2013)  Introducción a @STxT@ (2013)
 		
 	Section: Antiguos capítulos
 		Link: (chapter_01) Capítulo 1: ¿Cómo leer este libro?
