@@ -11,10 +11,11 @@ Document (globalcampus.site/namespace.stxt): Potenciado con IA
 	Subheader: Humano
 	
 	Code: 
-		Hola, te voy a hablar del lenguaje STXT (SemanticText). Es un lenguaje escribir documentos estructurados.
-		Los documentos tienen etiquetas separadas por el caracter ":", y están anidadas mediante tabuladores.
-		Con el mismo lenguaje se puede definir un namespace, que definirá un tipo de documento y las etiquetas
-		permitidas y las que no.
+		Hola, te voy a hablar del lenguaje STXT (SemanticText). 
+		Es un lenguaje escribir documentos estructurados. Los documentos tienen etiquetas 
+		separadas por el caracter ":", y están anidadas mediante tabuladores.
+		Con el mismo lenguaje se puede definir un namespace, que definirá 
+		un tipo de documento y las etiquetas permitidas y las que no.
 		
 		Te pongo un ejemplo de namespace:
 		
