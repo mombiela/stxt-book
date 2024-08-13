@@ -148,7 +148,7 @@ Document (globalcampus.site/namespace.stxt): Tutorial
 		Mejor ver un ejemplo:
 		
 	Code: 
-		Namespace: www.kocinando.com/recetario.stxt
+		***Namespace: www.kocinando.com/recetario.stxt***
 			Recetario:
 				Receta: (+) ***(www.kocinando.com/receta.stxt)***
 
@@ -160,8 +160,8 @@ Document (globalcampus.site/namespace.stxt): Tutorial
 	Content: Así, un ejemplo de recetario sería:
 	
 	Code:
-		Recetario (www.kocinando.com/recetario.stxt): Recetas de la mama 
-			Receta: Receta de macarrones
+		***Recetario (www.kocinando.com/recetario.stxt): Recetas de la mama*** 
+			***Receta: Receta de macarrones***
 				Descripción:
 					Esta es la descripción de la recta de macarrones.
 					Bla, bla, bla
@@ -175,7 +175,7 @@ Document (globalcampus.site/namespace.stxt): Tutorial
 					Paso: (1) Hacer sofrito
 					Paso: (2) Hervir macarrones
 					Paso: (3) Juntar macarrones con sofrito y servir	
-			Receta: Receta de pizza
+			***Receta: Receta de pizza***
 				Ingredientes:
 					Ingrediente: (1u) Masa pizza
 					Ingrediente: (100g) Tomate
