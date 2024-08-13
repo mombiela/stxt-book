@@ -14,18 +14,23 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (intro-2024) Introducción a @STxT@ (2024)
 		Link: (tutorial) Tutorial
 		Link: (ai-powered) Potenciado con IA
-		Link: (examples) Ejemplos
 		
 	Section: Documentos
 		Link: (raw-docs) Documentos sin namespace 
 		Link: (ns-docs-1) Documentos con namespace (I)
 		Link: (ns-docs-2) Documentos con namespace (II)
+		Link: (examples) Ejemplos
 		
 	Section: Reflexiones	
+		Link: (chapter_08) Capítulo 8: Ejemplos y otras tecnologías
+		Link: (chapter_09) Capítulo 9: @STxT@ y XML
+		Link: (chapter_10) Capítulo 10: Web Services
+		Link: (chapter_12) Capítulo 12: Web semántica
 		Link: (chapter_13) Capítulo 13: ¿Y ahora qué?
 		Link: (chapter_end) Final
 	
 	Section: Anexos
+		Link: (chapter_11) Capítulo 11: Parseo de STxT
 		Link: (intro-2013)  Introducción a @STxT@ (2013)
 		
 	Section: Antiguos capítulos
@@ -36,9 +41,4 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (chapter_05) Capítulo 5: Compactación (*)
 		Link: (chapter_06) Capítulo 6: Tutorial Avanzado (*)
 		Link: (chapter_07) Capítulo 7: Equivalencias e Internacionalización (I18N)
-		Link: (chapter_08) Capítulo 8: Ejemplos y otras tecnologías
-		Link: (chapter_09) Capítulo 9: @STxT@ y XML
-		Link: (chapter_10) Capítulo 10: Web Services
-		Link: (chapter_11) Capítulo 11: Parseo de STxT
-		Link: (chapter_12) Capítulo 12: Web semántica
 		

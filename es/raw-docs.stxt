@@ -106,7 +106,30 @@ Document (globalcampus.site/namespace.stxt): Documentos sin namespace
 				Paso: (1) Hacer sofrito
 				Paso: (2) Hervir macarrones
 				Paso: (3) Juntar macarrones con sofrito y servir	
+				
 	Content:
 		Acabamos de ver que el nodo `Descripción` es un nodo MULTILINE. 
 	
+	Header: (Prefix) Central (Sufix)
+	
+	Content: 
+		Aunque no forma parte del lenguaje, es una práctica habitual que 
+		campos simples se estructuren con `(prefix) central (sufix)`.
+		Pueden aparecer las 3 o sólo 1 o 2 de ellas. Ejemplo:
+		
+	Code:
+		Receta: Receta de macarrones
+			Descripción:
+				:Esta es la descripción de la recta de macarrones.
+				:Bla, bla, bla
+				:Bla, bla, bla
+			Comensales: 3
+			Dificultad: fácil
+			Ingredientes:
+				Ingrediente: (100g) Tomate
+				Ingrediente: (240g) Macarrones
+			Pasos:
+				Paso: ***(1) Hacer sofrito***
+				Paso: ***(2) Hervir macarrones***
+				Paso: ***(3) Juntar macarrones con sofrito y servir***	
 	
