@@ -35,15 +35,16 @@ Document (globalcampus.site/namespace.stxt): Tutorial
 		
 	Alert: No uséis esta receta en casa, esperad al próximo capítulo ;-)
 	
-	Bien, acabáis de ver lo que es un **documento @STxT@ sin namespace**. Este tipo de documentos
-	son estructurados, pero no sabemos que forma tienen los nodos. De cualquier manera ya 
-	se puede ver que tienen estructura, con un nodo principal `Receta`, el qual tiene
-	un nodo `Descripción`, `Ingredientes`, etc. A su vez estos nodos tienen otros, y así
-	hasta formar una estructura jerárquica. 
+	Content:
+		Bien, acabáis de ver lo que es un **documento @STxT@ sin namespace**. Este tipo de documentos
+		son estructurados, pero no sabemos que forma tienen los nodos. De cualquier manera ya 
+		se puede ver que tienen estructura, con un nodo principal `Receta`, el qual tiene
+		un nodo `Descripción`, `Ingredientes`, etc. A su vez estos nodos tienen otros, y así
+		hasta formar una estructura jerárquica. 
 	
-	Vale la pena mencionar el nodo `Descripción` que es un nodo que permite **multilíneas**.
-	Al no tener una estructura previa se distinguen porque estan anidados pero las
-	líneas no tienen etiqueta previa. Esto es muy importante para los documentos sin namespace.
+		Vale la pena mencionar el nodo `Descripción` que es un nodo que permite **multilíneas**.
+		Al no tener una estructura previa se distinguen porque estan anidados pero las
+		líneas no tienen etiqueta previa. Esto es muy importante para los documentos sin namespace.
 	
 	Subheader: Documentos con namespace
 	
