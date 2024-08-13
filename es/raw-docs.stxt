@@ -22,6 +22,15 @@ Document (globalcampus.site/namespace.stxt): Documentos sin namespace
 
 	Content: Vamos a profundizar un poco más.
 
+	header: Codificación
+	
+	Assert: Codificación UTF-8 Siempre
+	
+	Content: 
+		Fin. Es una buena regla y estoy muy contento con ella. 
+		Hoy en día es la codificación más aceptable, más universal,
+		y más implementada. No creo que esto cambie en los próximos años.	
+	
 	header: Identificadores
 	
 	Assert: Los Identificadores son CASE-INSENSITIVE
