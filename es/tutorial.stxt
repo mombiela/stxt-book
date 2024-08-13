@@ -107,9 +107,9 @@ Document (globalcampus.site/namespace.stxt): Tutorial
 		Es muy intuitivo, la propia estructura es un reflejo del órden jerárquico, indicando
 		el tipo del nodo si hiciera falta.
 		
-		El namespace **debería poderse consultar vía internet** en la misma url que lo indica.
+		El namespace **debería poderse consultar vía internet**, en la misma url que lo indica.
 		Así, este namespace debería estar disponible mediante la url `https://www.kocinando.com/receta.stxt`. 
-		Los parseadores deberían tenerlo disponible de forma local, y es mejor que sea así por rendimiento.
+		Los parseadores igualmente deberían tenerlo disponible de forma local, y es mejor que sea así por rendimiento.
 		
 		Más adelante hablaremos en profundidad de los namespaces, pero hacer un documento a partir de ellos
 		debería ser mucho más sencillo que en otros lenguajes.
