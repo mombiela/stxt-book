@@ -9,10 +9,10 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (oracle) Oráculo
 		Link: (poesia) Poesía
 		Link: (prologo) Prologo
+		Link: (welcome) Bienvenida
 		Link: (index) Contenidos
 	
 	Section: STXT: Un nuevo lenguaje
-		Link: (welcome) Bienvenida
 		Link: (intro-2024) Introducción - 2024
 		Link: (tutorial) Tutorial
 		Link: (ai-powered) Potenciado con IA
