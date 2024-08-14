@@ -1,4 +1,4 @@
-Document (globalcampus.site/namespace.stxt): Insert a name
+Document (globalcampus.site/namespace.stxt): Documentos con namespace
 
 	Assert: Todo lo explicado para documentos sin namespace es aplicable, excepto los nodos multilínea.
 	
@@ -15,6 +15,47 @@ Document (globalcampus.site/namespace.stxt): Insert a name
 		Ésto esta implícito por el tipo de nodo.
 
 	Content: 
-		Realmente se podría permitir el uso de `:`, pero creemos que es más
-		coherente no hacerlo, en beneficio de la claridad visual. No queremos dejar
-		nada al azar, y queremos que el texto sea bonito _siempre_.
+		En caso que se inserte el carcter `:` lo que pasará es que formará
+		parte del texto, no se considerará especial. Los otros tipos
+		de texto no permiten varias líneas, por lo que no tendrá efecto.
+		
+	Header: Definición de namespace
+	
+	Content:
+		Un namespace es un documento sin namespace con el primer nodo llamado `Namespace`,
+		el cual es una estructura con todos los tipos de nodo posibles, a modo de ejemplo.
+		
+	Assert: 
+		Un nodo se define sólamente una vez, después ya no se puede redefinir.\
+		Se permite que aparezca antes siempre y cuando no se defina la estructura.
+			
+	Content: 
+		Vamos a ver un ejemplo:
+		
+	Code:
+		Namespace: www.demo.com/documento.stxt
+			Documento:
+        	Título: (1)
+        	***Secciones: (?)***
+        	Description: (1) TEXT
+        	Tipo Documento: (1) ENUM
+        		:informe
+        		:artículo
+        		:ensayo
+        		
+	    	***Secciones:***
+    	    	***Seccion: (+) TEXT***
+	
+	Content: Otra forma de definirlo hubiera sido:
+	
+	Code:
+		Namespace: www.demo.com/documento.stxt
+			Documento:
+        	Título: (1)
+        	***Secciones: (?)***
+        		***Seccion: (+) TEXT***
+        	Description: (1) TEXT
+        	Tipo Documento: (1) ENUM
+        		:informe
+        		:artículo
+        		:ensayo
