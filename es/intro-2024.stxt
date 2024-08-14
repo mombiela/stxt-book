@@ -21,6 +21,6 @@ Document (globalcampus.site/namespace.stxt):Capítulo 2: ¿Qué es @STxT@?
 		He modificado el lenguaje, aún sin haberlo usado, y ya estamos en la segunda versión.
 		Ahora todo es más directo, más claro, y sencillo. Ahora sí que ha llegado el momento de usarlo.
 		
-	assert:
-		¿Empezamos?
+	assert:	¿Empezamos?
+	#assert: ¿Preparados? No sabía que poner :-D
 	
