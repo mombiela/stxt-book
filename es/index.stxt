@@ -13,7 +13,7 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 	
 	Section: STXT: Un nuevo lenguaje
 		Link: (welcome) Bienvenida
-		Link: (intro-2024) Introducción a @STxT@ - 2024
+		Link: (intro-2024) Introducción - 2024
 		Link: (tutorial) Tutorial
 		Link: (ai-powered) Potenciado con IA
 		
@@ -30,6 +30,6 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (end) Final
 	
 	Section: Anexos
-		Link: (intro-2013)  Introducción a @STxT@ - 2013
+		Link: (intro-2013)  Introducción - 2013
 		Link: (parser) Parseo de STxT
 		
