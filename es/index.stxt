@@ -3,7 +3,7 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 	Menu:
 		Link: (index) Índice
 		Link: (tutorial) Tutorial
-		Link: (chapter_09) XWM y STXT
+		Link: (stxt-xml) XWM y STXT
 		
 	Section:
 		Link: (oracle) Oráculo
