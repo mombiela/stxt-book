@@ -6,31 +6,31 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (chapter_09) XWM y STXT
 		
 	Section:
-		Link: (chapter_00_a) Profecía
-		Link: (chapter_00_b) Poesía
-		Link: (chapter_01) Prologo
+		Link: (oracle) Oráculo
+		Link: (poesia) Poesía
+		Link: (prologo) Prologo
 		Link: (index) Contenidos
 	
 	Section: STXT: Un nuevo lenguaje
 		Link: (intro-2024) Introducción a @STxT@ - 2024
-		Link: (chapter_02) Capítulo 2: ¿Qué es @STxT@?
+		Link: (stxt) Capítulo 2: ¿Qué es @STxT@?
 		Link: (tutorial) Tutorial
 		Link: (ai-powered) Potenciado con IA
 		
 	Section: Documentos
 		Link: (raw-docs) Documentos sin namespace 
-		Link: (ns-docs-1) Documentos con namespace - I
-		Link: (ns-docs-2) Documentos con namespace - II
+		Link: (ns-docs-1) Documentos con namespace (Parte 1)
+		Link: (ns-docs-2) Documentos con namespace (Parte 2)
 		Link: (examples) Ejemplos
 		
 	Section: Reflexiones	
-		Link: (chapter_08) Capítulo 8: Ejemplos y otras tecnologías
-		Link: (chapter_09) Capítulo 9: @STxT@ y XML
-		Link: (chapter_12) Capítulo 12: Web semántica
-		Link: (chapter_13) Capítulo 13: ¿Y ahora qué?
-		Link: (chapter_end) Final
+		Link: (stxt-vs) Capítulo 8: Ejemplos y otras tecnologías
+		Link: (stxt-xml) Capítulo 9: @STxT@ y XML
+		Link: (semantic-web) Capítulo 12: Web semántica
+		Link: (stxt-now) Capítulo 13: ¿Y ahora qué?
+		Link: (end) Final
 	
 	Section: Anexos
-		Link: (chapter_11) Capítulo 11: Parseo de STxT
+		Link: (parser) Capítulo 11: Parseo de STxT
 		Link: (intro-2013)  Introducción a @STxT@ - 2013
 		
