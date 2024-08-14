@@ -35,30 +35,30 @@ Document (globalcampus.site/namespace.stxt): Documentos con namespace
 	Code:
 		Namespace: www.demo.com/documento.stxt
 			Documento:
-        	Título: (1)
-        	***Secciones: (?)***
-        	Description: (1) TEXT
-        	Tipo Documento: (1) ENUM
-        		:informe
-        		:artículo
-        		:ensayo
+	        	Título: (1)
+	        	***Secciones: (?)***
+	        	Description: (1) TEXT
+	        	Tipo Documento: (1) ENUM
+	        		:informe
+	        		:artículo
+	        		:ensayo
         		
 	    	***Secciones:***
     	    	***Seccion: (+) TEXT***
 	
-	Content: Otra forma de definirlo hubiera sido:
+	Content: Otra forma de definirlo más simple hubiera sido:
 	
 	Code:
 		Namespace: www.demo.com/documento.stxt
 			Documento:
-        	Título: (1)
-        	***Secciones: (?)***
-        		***Seccion: (+) TEXT***
-        	Description: (1) TEXT
-        	Tipo Documento: (1) ENUM
-        		:informe
-        		:artículo
-        		:ensayo
+	        	Título: (1)
+	        	***Secciones: (?)***
+	        		***Seccion: (+) TEXT***
+	        	Description: (1) TEXT
+	        	Tipo Documento: (1) ENUM
+	        		:informe
+	        		:artículo
+	        		:ensayo
 
 	Content: Finalmente un documento del namespace:
 	
