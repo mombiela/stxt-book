@@ -13,7 +13,7 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 	
 	Section: STXT: Un nuevo lenguaje
 		Link: (intro-2024) Introducción a @STxT@ - 2024
-		Link: (stxt) Capítulo 2: ¿Qué es @STxT@?
+		Link: (stxt) ¿Qué es @STxT@?
 		Link: (tutorial) Tutorial
 		Link: (ai-powered) Potenciado con IA
 		
@@ -24,13 +24,13 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (examples) Ejemplos
 		
 	Section: Reflexiones	
-		Link: (stxt-vs) Capítulo 8: Ejemplos y otras tecnologías
-		Link: (stxt-xml) Capítulo 9: @STxT@ y XML
-		Link: (semantic-web) Capítulo 12: Web semántica
-		Link: (stxt-now) Capítulo 13: ¿Y ahora qué?
+		Link: (stxt-vs) Ejemplos y otras tecnologías
+		Link: (stxt-xml) @STxT@ y XML
+		Link: (semantic-web) Web semántica
+		Link: (stxt-now) ¿Y ahora qué?
 		Link: (end) Final
 	
 	Section: Anexos
-		Link: (parser) Capítulo 11: Parseo de STxT
 		Link: (intro-2013)  Introducción a @STxT@ - 2013
+		Link: (parser) Parseo de STxT
 		
