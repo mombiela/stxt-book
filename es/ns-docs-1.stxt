@@ -59,3 +59,59 @@ Document (globalcampus.site/namespace.stxt): Documentos con namespace
         		:informe
         		:artículo
         		:ensayo
+
+	Content: Finalmente un documento del namespace:
+	
+	Code:
+		Documento (www.demo.com/documento.stxt):
+		    Título: Primer documento simple
+		    Description:
+		    	Este es el
+		    	primer documento
+		    	simple. Tiene varias líneas
+		    Tipo Documento: informe
+		    Secciones:
+		    	Seccion: Esta es una sección
+		    	Seccion:
+		    		Esta es una sección
+		    		con más de una
+		    		línea.
+
+	Subheader: Definición de cantidad
+	
+	Content: 
+		Se permite definir la cantidad de nodos de la siguiente forma:
+		
+		* `?`: Puede o no aparecer (máximo 1)
+		* `+`: Al menos un nodo
+		* `*`: Cualquier número de nodos
+		* `num+`: _num_ o más nodos
+		* `num-`: _num_ o menos nodos
+		* `num`: exactamente _num_ nodos
+	
+	Subheader: Tipos de nodos
+	
+	Content: 
+		Se permiten los siguientes tipos de nodos:
+	
+	    * STRING (Valor por defecto)
+		* TEXT (permite multiline, no permite nodos hijos)
+	    * NUMBER: /^(\-|\+)?\d+(\.\d+(e(\-|\+)?\d+)?/
+	    * BOOLEAN: true | false
+	    * REGEX: valid regex
+	    * ENUM: En las siguientes multilineas se muestran los valores válidos
+	    * DATE: YYYY-MM-DD
+	    * TIMESTAMP: ISO_8601
+	    * EMAIL: valid email
+	    * URL: valid url
+	    * HEXADECIMAL (permite multiline, no permite nodos hijos)
+	    * BASE64 (permite multiline, no permite nodos hijos)
+	    * EMPTY: no permite contenido
+	    * INTEGER: (+|-)?\d+
+	    * NATURAL: \d+
+		
+	
+	
+	
+	
+	
