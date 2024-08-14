@@ -1,6 +1,6 @@
 Document (globalcampus.site/namespace.stxt): Hola!
 
-	Header: Nuestro objetivo ==
+	Header: Nuestro objetivo
 		
 	Alert:
 		Crear el lenguaje más potente, más sencillo y más bonito \
@@ -39,7 +39,7 @@ Document (globalcampus.site/namespace.stxt): Hola!
 		
 	Header: ¿Y bien?
 		
-	Aassert:
+	Assert:
 		¿Aparte de eliminar esos horribles caracteres {{{'<','>'}}} qué hay de nuevo?
 		
 	Content:
@@ -61,7 +61,7 @@ Document (globalcampus.site/namespace.stxt): Hola!
 		
 	Header: Y aún hay más: GlobalCampus.site
 		
-		No te olvides de nuestra aplicación estrella [GlobalCampus.site](https://globalcampus.site).\
+	Content: No te olvides de nuestra aplicación estrella [GlobalCampus.site](https://globalcampus.site).\
 		
 	Assert: 
 		Para nosotros el mejor editor de páginas web que existe.\
