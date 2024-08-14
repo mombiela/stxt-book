@@ -23,7 +23,7 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		Link: (examples) Ejemplos
 		
 	Section: Reflexiones	
-		Link: (stxt-vs) Ejemplos y otras tecnologías
+		Link: (stxt-vs) @STxT@ y otras tecnologías
 		Link: (stxt-xml) @STxT@ y XML
 		Link: (semantic-web) Web semántica
 		Link: (stxt-now) ¿Y ahora qué?
