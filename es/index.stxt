@@ -18,8 +18,8 @@ Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		
 	Section: Documentos
 		Link: (raw-docs) Documentos sin namespace 
-		Link: (ns-docs-1) Documentos con namespace (Parte 1)
-		Link: (ns-docs-2) Documentos con namespace (Parte 2)
+		Link: (ns-docs-1) Documentos con namespace - Parte 1
+		Link: (ns-docs-2) Documentos con namespace - Parte 2
 		Link: (examples) Ejemplos
 		
 	Section: Reflexiones	
