@@ -1,7 +1,6 @@
-Document (globalcampus.site/namespace.stxt): Capítulo 1: ¿Cómo leer este libro?
+Document (globalcampus.site/namespace.stxt): Prólogo
 
 	Metadata:
-		Title: Capítulo 1: ¿Cómo leer este libro?
 		Description: Requisitos previos y orden de lectura del libro
 		Author: Joan Costa Mombiela
 		last modif: 2013-03-01
@@ -33,24 +32,9 @@ Document (globalcampus.site/namespace.stxt): Capítulo 1: ¿Cómo leer este libr
 		No es necesario ningún conocimiento informático específico,
 		pero nociones de tecnologías como xml o html son recomendables. 
 		
-		Para entender el [[chapter_11.html|Capítulo 11: Parseo de @STxT@]]
-		se deberían tener conocimientos de programación.
-		
-	header:	Estrellas
-		
-	Content:
-		Los capítulos y los apartados pueden ser normales, difíciles ({{{*}}}) o simplemente extraños ({{{*}}}{{{*}}}).
-		
-		Leed los difíciles ({{{*}}}) si es de buena mañana o estáis especialmente lúcidos.
-		
-		Leed los extraños ({{{*}}}{{{*}}}) sólo bajo vuestra responsabilidad ;-)
-		
 	header: Orden de lectura
 		
 	Content:
-		Todo el mundo debería leer el [[chapter_03.html|Capítulo 3, el tutorial]]. Es básico. 
-		El [[chapter_09.html|Capítulo 9, @STxT@ y XML]] también es muy interesante, 
-		ya que comparamos estos dos lenguajes.
-		
+		Todo el mundo debería leer el [Tutorial](tutorial). Es básico. 
 		A partir de aquí el orden es indiferente. Lo dejo a vuestra elección :-)
 		

@@ -1,9 +1,9 @@
 Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 	Title: STxT: El libro
 	Menu:
-		Link: (index) Índice
+		Link: (welcome) ¡Hola! 
+		Link: (index) El libro
 		Link: (tutorial) Tutorial
-		Link: (stxt-xml) XWM y STXT
 		
 	Section:
 		Link: (oracle) Oráculo
