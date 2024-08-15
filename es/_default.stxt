@@ -1,5 +1,5 @@
-Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
-	Title: STxT: El libro
+Default (globalcampus.site/namespace.stxt):
+	Title: STXT: Un lenguaje para la web
 	Menu Left:
 		Link: (welcome) ¡Hola! 
 		Link: (index) El libro
