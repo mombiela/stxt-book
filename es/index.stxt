@@ -1,33 +1,33 @@
 Index(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 	Content:
-		* (oracle) Oráculo
-		* (poesia) Poesía
-		* (prologo) Prologo
-		* (index) Contenidos
+		* [Oráculo](oracle)
+		* [Poesía](poesia) 
+		* [Prologo](prologo)
+		* [Contenidos](index) 
 		
 	Header: STXT: Un nuevo lenguaje
 	Content:
-		* (welcome) Bienvenida
-		* (intro-2024) Introducción - 2024
-		* (tutorial) Tutorial
-		* (ai-powered) Potenciado con IA
+		* [Bienvenida](welcome)
+		* [Introducción - 2024](intro-2024)
+		* [Tutorial](tutorial)
+		* [Potenciado con IA](ai-powered)
 			
 	Header: Documentos
 	Content:
-		* (raw-docs) Documentos sin namespace 
-		* (ns-docs) Documentos con namespace
-		* (examples) Ejemplos
+		* [Documentos sin namespace](raw-docs) 
+		* [Documentos con namespace](ns-docs)
+		* [Ejemplos](examples)
 			
 	Header: Reflexiones	
 	Content:
-		* (stxt-vs) @STxT@ y otras tecnologías
-		* (stxt-xml) @STxT@ y XML
-		* (semantic-web) Web semántica
-		* (stxt-now) ¿Y ahora qué?
-		* (end) Final
+		* [@STxT@ y otras tecnologías](stxt-vs)
+		* [@STxT@ y XML](stxt-xml)
+		* [Web semántica](semantic-web)
+		* [¿Y ahora qué?](stxt-now)
+		* [Final](end)
 		
 	Header: Anexos
 	Content:
-		* (intro-2013)  Introducción - 2013
-		* (parser) Parseo de STxT
+		* [Introducción - 2013](intro-2013)
+		* [Parseo de STxT](parser)
 		
