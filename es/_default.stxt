@@ -1,7 +1,4 @@
 Default (globalcampus.site/namespace.stxt):
 	Title: STXT: Un lenguaje para la web
-	Left Menu:
-		Link: ¡Hola! (welcome)  
-		Link: El libro (index) 
-		Link: Tutorial (tutorial) 
+	Left Menu: [¡Hola!](welcome) [El libro](index) [Tutorial](tutorial) 
 		
