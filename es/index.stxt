@@ -1,4 +1,8 @@
 Document(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
+	Navigation:
+		Previous: prologo
+		Next: welcome
+
 	Content:
 		* [Oráculo](oracle)
 		* [Poesía](poesia) 
