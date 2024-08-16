@@ -1,7 +1,7 @@
 Document(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 	Navigation:
-		Previous: prologo
-		Next: welcome
+		Previous: Anterior (prologo)
+		Next: Siguiente (welcome)
 
 	Content:
 		* [Oráculo](oracle)
