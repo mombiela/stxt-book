@@ -19,7 +19,6 @@ Document(globalcampus.site/namespace.stxt):
 	Header: Reflexiones	
 	Content:
 		* [@STxT@ y otras tecnologías](stxt-vs)
-		* [@STxT@ y XML](stxt-xml)
 		* [Web semántica](semantic-web)
 		* [¿Y ahora qué?](stxt-now)
 		
