@@ -14,6 +14,7 @@ Document(globalcampus.site/namespace.stxt):
 		* [Documentos sin namespace](raw-docs) 
 		* [Documentos con namespace](ns-docs)
 		* [Ejemplos](examples)
+		* [Parseo de documentos](parser)
 			
 	Header: Reflexiones	
 	Content:
