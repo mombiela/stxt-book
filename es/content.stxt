@@ -1,14 +1,8 @@
-Document(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
+Document(globalcampus.site/namespace.stxt):
 	Navigation:
 		Previous: Anterior (prologo)
 		Next: Siguiente (intro-2024)
 
-	Content:
-		* [Oráculo](oracle)
-		* [Poesía](poesia) 
-		* [Prologo](prologo)
-		* [Contenidos](content) 
-		
 	Header: STXT: Un nuevo lenguaje
 	Content:
 		* [Introducción - 2024](intro-2024)
