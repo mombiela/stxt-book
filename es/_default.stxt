@@ -1,7 +1,7 @@
 Default (globalcampus.site/namespace.stxt):
 	Title: STXT: Semantic Text
 	Subtitle: Un lenguaje para la web
-	Left Menu: [¡Hola!](index) [El libro](content) [Tutorial](tutorial) [STXT y Otras Tecnologías](stxt-vs)
+	Left Menu: [¡Hola!](index) [El libro](content) [Tutorial](tutorial) [Otras Tecnologías](stxt-vs)
 	Right Menu: **Español**
 	Display edit: false
 	Display src: true
