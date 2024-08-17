@@ -30,8 +30,3 @@ Document(globalcampus.site/namespace.stxt): STXT: Un lenguaje para la web
 		* [¿Y ahora qué?](stxt-now)
 		* [Final](end)
 		
-	Header: Anexos
-	Content:
-		* [Introducción - 2013](intro-2013)
-		* [Parseo de STxT](parser)
-		
