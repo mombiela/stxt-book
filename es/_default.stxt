@@ -3,5 +3,4 @@ Default (globalcampus.site/namespace.stxt):
 	Subtitle: Un lenguaje para la web
 	Left Menu: [¡Hola!](index) [El libro](content) [Tutorial](tutorial) [Otras Tecnologías](stxt-vs)
 	Right Menu: **Español**
-	Display edit: false
-	Display src: true
+	Footer: &copy; 2014 - Esta obra está bajo una [Licencia MIT](https://raw.githubusercontent.com/mombiela/semantic-web-builder/master/LICENSE)
