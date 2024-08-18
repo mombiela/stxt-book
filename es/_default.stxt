@@ -4,3 +4,5 @@ Default (globalcampus.site/namespace.stxt):
 	Left Menu: [¡Hola!](index) [El libro](content) [Tutorial](tutorial) [Otras Tecnologías](stxt-vs)
 	Right Menu: **Español**
 	Footer: &copy; 2014 - Esta obra está bajo una [Licencia MIT](https://raw.githubusercontent.com/mombiela/semantic-web-builder/master/LICENSE)
+	Display edit: false
+	Display src: true
