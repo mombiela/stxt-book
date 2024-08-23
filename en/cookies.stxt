@@ -1,11 +1,9 @@
-Page (www.semantictext.info/page.stxt):
+Document (globalcampus.site/namespace.stxt):Cookies
 
 	Metadata:
-		Title: Cookies
 		Description: Política de cookies
 		Author: Joan Costa Mombiela
-		Last_modif: 2017-04-04
-		Priority: 0.2
+		Last modif: 2017-04-04
 		
 	Content:
 		== Cookies ==
