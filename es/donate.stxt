@@ -21,9 +21,9 @@ Document (globalcampus.site/namespace.stxt):Donaciones al proyecto
 		<p><center><strong>Muchas gracias por vuestra colaboración.</strong></center></p>
 		</div>
 	
-	Content:
-		== ¿Por qué donar? ==
+	Header: ¿Por qué donar?
 		
+	Content:
 		Podría daros muchos motivos, la inversión que hemos hecho, el mantenimiento de los servidores,
 		el trabajo realizado, el ancho de banda, las traducciones... y aunque realmente espero 
 		que estas inversiones puedan ser amortizadas (algún día :-D) mediante publicidad u otros patrocinadores,
