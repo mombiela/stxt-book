@@ -3,20 +3,20 @@ Document(globalcampus.site/namespace.stxt):
 		Previous: Anterior (prologo)
 		Next: Siguiente (intro-2024)
 
-	Header: STXT: Un nuevo lenguaje
+	Header: Parte I: Un nuevo lenguaje
 	Content:
 		* [Capítulo 1: Introducción - 2024](01-intro-2024)
 		* [Capítulo 2: Tutorial](02-tutorial)
 		* [Capítulo 3: Potenciado con IA](03-ai-powered)
 			
-	Header: Documentos
+	Header: Parte II: Documentos
 	Content:
 		* [Capítulo 4: Documentos sin namespace](04-raw-docs) 
 		* [Capítulo 5: Documentos con namespace](05-ns-docs)
 		* [Capítulo 6: Ejemplos](06-examples)
 		* [Capítulo 7: Parseo de documentos](07-parser)
 			
-	Header: Reflexiones	
+	Header: Parte III: Reflexiones	
 	Content:
 		* [Capítulo 8: @STxT@ y otras tecnologías](08-stxt-vs)
 		* [Capítulo 9: Web semántica](09-semantic-web)

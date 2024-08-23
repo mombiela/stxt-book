@@ -1,12 +1,10 @@
-Page (www.semantictext.info/page.stxt):
+Document (globalcampus.site/namespace.stxt):Contribuye con nosotros
 
 	Metadata:
-		Title: Contribuye con nosotros
 		Description: Cosas que faltan por hacer en el lenguaje STxT y formas de contribuir
 			con el mantenimiento y los contenidos del portal.
 		Author: Joan Costa Mombiela
-		Last_modif: 2013-10-17
-		Priority: 0.6
+		Last modif: 2013-10-17
 		
 	Content:
 		==¿Quieres contribuir?==
