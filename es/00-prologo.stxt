@@ -1,5 +1,7 @@
 Document (globalcampus.site/namespace.stxt): Prólogo
-
+	Default:
+		Title: STXT: El Libro
+		
 	Navigation:
 		Previous: Anterior (00-poesia)
 		Next: Siguiente (00-table-content)

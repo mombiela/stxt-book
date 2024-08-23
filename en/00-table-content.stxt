@@ -1,4 +1,7 @@
 Document(globalcampus.site/namespace.stxt):
+	Default:
+		Title: STXT: El Libro
+		
 	Navigation:
 		Previous: Anterior (00-prologo)
 		Next: Siguiente (01-intro-2024)

@@ -1,4 +1,7 @@
 Document (globalcampus.site/namespace.stxt): Capítulo 10: ¿Y ahora qué?
+	Default:
+		Title: STXT: El Libro
+		
 	Navigation:
 		Previous: Anterior (09-semantic-web)
 		Next: Siguiente (11-end)

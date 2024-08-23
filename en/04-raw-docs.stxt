@@ -1,4 +1,7 @@
 Document (globalcampus.site/namespace.stxt): Capítulo 4: Documentos sin namespace
+	Default:
+		Title: STXT: El Libro
+		
 	Navigation:
 		Previous: Anterior (03-ai-powered)
 		Next: Siguiente (05-ns-docs)

@@ -1,4 +1,7 @@
 Document (globalcampus.site/namespace.stxt): Capítulo 5: Documentos con namespace
+	Default:
+		Title: STXT: El Libro
+		
 	Navigation:
 		Previous: Anterior (04-raw-docs)
 		Next: Siguiente (06-examples)
