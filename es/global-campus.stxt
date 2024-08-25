@@ -20,7 +20,7 @@ Document (globalcampus.site/namespace.stxt): Global Campus
 	
 	Header: ¿Por qué lo hicisteis?
 	
-	Conent:
+	Content:
 		En 2013 realizamos un proyecto llamado _SemanticWebBuilder_, que es justamente
 		lo que hemos usado actualmente para esta web. Pero queríamos algo que fuera
 		muy rápido de probar, **casi immediato**. Además, siempre hemos hechado en falta
